@@ -1,5 +1,5 @@
 ---
-name: PocketBase Template
+name: Floodboy Events
 description: "The backend's own release notes, set flush in Home Assistant's dark panel: warm Plex ink on a neutral ground, green to press, amber for what needs attention."
 colors:
   paper: "oklch(18.2% 0 0)"
@@ -155,7 +155,7 @@ components:
     typography: "{typography.colophon}"
 ---
 
-# Design System: PocketBase Template
+# Design System: Floodboy Events
 
 The locked system for the two pages a person sees: the admin page (`pocketbase/pb_public/index.html`, the Home Assistant sidebar panel at `/_setup/`) and the example app (`ui/index.html`). Every redesign reads this file first; extend or amend it here, never per page. Repos made from the template inherit it. The frontmatter mirrors the pages' shared token block value for value, so change both together; `.impeccable/design.json` carries what the frontmatter cannot hold (tonal ramps, motion, breakpoints, component snippets).
 

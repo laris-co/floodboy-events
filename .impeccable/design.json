@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "generatedAt": "2026-10-01T08:32:47Z",
-  "title": "Design System: PocketBase Template",
+  "title": "Design System: Floodboy Events",
   "extensions": {
     "colorMeta": {
       "paper": {
@@ -367,7 +367,7 @@
       "kind": "nav",
       "refersTo": "masthead",
       "description": "N9: the project's name hard left, the one action hard right, a hairline below. The new-tab arrow is its own 28 x 44 target.",
-      "html": "<header class=\"ds-masthead\"><span class=\"ds-masthead-name\">PocketBase Template</span><nav class=\"ds-masthead-nav\" aria-label=\"Dashboard\"><a class=\"ds-masthead-link\" href=\"#\">Open dashboard</a><a class=\"ds-masthead-tab\" href=\"#\" aria-label=\"Open the dashboard in a new tab\"><svg class=\"ds-masthead-icon\" viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"M6.5 3.5h-3v9h9v-3M9.5 3.5h3v3M12.5 3.5 7 9\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></a></nav></header>",
+      "html": "<header class=\"ds-masthead\"><span class=\"ds-masthead-name\">Floodboy Events</span><nav class=\"ds-masthead-nav\" aria-label=\"Dashboard\"><a class=\"ds-masthead-link\" href=\"#\">Open dashboard</a><a class=\"ds-masthead-tab\" href=\"#\" aria-label=\"Open the dashboard in a new tab\"><svg class=\"ds-masthead-icon\" viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"M6.5 3.5h-3v9h9v-3M9.5 3.5h3v3M12.5 3.5 7 9\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></a></nav></header>",
       "css": ".ds-masthead { display: flex; align-items: center; justify-content: space-between; gap: var(--space-sm); min-height: 3.5rem; padding: var(--space-2xs) var(--page-gutter); border-bottom: 1px solid var(--color-rule); background: var(--color-paper); color: var(--color-ink); } .ds-masthead-name { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font: 700 var(--text-lg)/1.4 var(--font-display); } .ds-masthead-nav { display: flex; align-items: center; gap: var(--space-3xs); flex: none; } .ds-masthead-link { display: inline-flex; align-items: center; min-height: var(--control-height); padding: 0 0 0 var(--space-2xs); white-space: nowrap; font: 700 var(--text-md)/1.6 var(--font-body); color: var(--color-ink); text-decoration: underline 1px var(--color-control); text-underline-offset: 3px; border-radius: var(--radius); outline: 2px solid transparent; outline-offset: 2px; transition: color var(--dur-short) var(--ease-out), text-decoration-color var(--dur-short) var(--ease-out); } .ds-masthead-link:hover { text-decoration-color: currentColor; } .ds-masthead-link:active { color: var(--color-ink-2); } .ds-masthead-link:focus-visible { outline-color: var(--color-focus); } .ds-masthead-tab { display: inline-grid; place-items: center start; width: 1.75rem; height: var(--control-height); color: var(--color-ink-2); border-radius: var(--radius); outline: 2px solid transparent; outline-offset: 2px; transition: color var(--dur-short) var(--ease-out); } .ds-masthead-tab:hover { color: var(--color-ink); } .ds-masthead-tab:focus-visible { outline-color: var(--color-focus); } .ds-masthead-icon { width: 1em; height: 1em; } @media (prefers-reduced-motion: reduce) { .ds-masthead-link, .ds-masthead-tab { transition: none; } }"
     },
     {

@@ -10,8 +10,8 @@ ARG BUILD_ARCH=""
 ARG BUILD_VERSION=""
 # The git commit this image was built from (addon-image.yml passes it): shown in the panel.
 ARG GIT_SHA=""
-LABEL org.opencontainers.image.title="PocketBase Template" \
-      org.opencontainers.image.description="PocketBase backend with provisioned logins and owner-only example data" \
+LABEL org.opencontainers.image.title="Floodboy Events" \
+      org.opencontainers.image.description="PocketBase backend for Floodboy Events" \
       org.opencontainers.image.licenses="MIT" \
       io.hass.type="addon" \
       org.opencontainers.image.revision="${GIT_SHA}"

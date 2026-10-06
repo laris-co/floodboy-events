@@ -71,7 +71,7 @@ URL), install, start, and read the **Log** tab for the logins.
   restart; the previous build is kept as `old`. Replace `ui/` with any framework's build: the zip
   needs `index.html` at its root and relative URLs (it runs under the ingress prefix).
 
-Details in [`addon/pocketbase_template/DOCS.md`](../addon/pocketbase_template/DOCS.md).
+Details in [`addon/floodboy_events/DOCS.md`](../addon/floodboy_events/DOCS.md).
 
 ## On an existing PocketBase
 
