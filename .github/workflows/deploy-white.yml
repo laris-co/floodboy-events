@@ -1,0 +1,39 @@
+# Deploy to white (self-hosted runner `floodboy-events-white`, registered to THIS repo only).
+#
+# Public repo + self-hosted runner: this workflow must never run code from a pull request.
+# It triggers only on pushes to main and by hand, and fork-PR workflows need approval
+# (Settings → Actions → "Require approval for all external contributors"). Do not add
+# `pull_request` or `pull_request_target` here.
+name: deploy-white
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "pocketbase/**"
+      - "data/**"
+      - "scripts/deploy-white.sh"
+      - "scripts/pm2.sh"
+      - "scripts/provision.sh"
+      - "project.env"
+      - ".github/workflows/deploy-white.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy-white
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: github.repository == 'laris-co/floodboy-events' && github.ref == 'refs/heads/main'
+    runs-on: [self-hosted, floodboy-events-white]
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Deploy (pinned pocketbase, pm2, import data)
+        run: scripts/deploy-white.sh

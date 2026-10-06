@@ -23,7 +23,7 @@ import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { fileURLToPath } from "node:url"
 
-const EXPECTED_COLLECTIONS = ["notes"]
+const EXPECTED_COLLECTIONS = ["notes", "news", "events"]
 
 const BASE = (process.env.PB_URL || "http://127.0.0.1:8090").replace(/\/+$/, "")
 const run = Math.random().toString(36).slice(2, 8)
@@ -253,6 +253,27 @@ async function main() {
 
   const del = await api("DELETE", `/api/collections/notes/records/${n2.json.id}`, { token: A.token })
   check("A deletes its own note", del.status === 204, `HTTP ${del.status}`)
+
+  // --- open flood data: news + events are public to read, superusers-only to write ---------
+  for (const col of ["news", "events"]) {
+    const guestRead = await api("GET", `/api/collections/${col}/records?perPage=1`)
+    check(`guest can list ${col} (open data)`, guestRead.status === 200, `HTTP ${guestRead.status}`)
+  }
+  const row = { key: `e2e-${run}`, time_utc: "2026-10-05 09:00:00.000Z", scope: "chiang-mai", phase: "during",
+    title_th: `e2e-${run}`, source_url: "https://example.invalid/e2e" }
+  const guestWrite = await api("POST", "/api/collections/news/records", { body: row })
+  check("guest cannot write news", guestWrite.status >= 400, `HTTP ${guestWrite.status}`)
+  const userWrite = await api("POST", "/api/collections/news/records", { token: A.token, body: row })
+  check("app user cannot write news", userWrite.status >= 400, `HTTP ${userWrite.status}`)
+  const adminWrite = await api("POST", "/api/collections/news/records", { token: admin.token, body: row })
+  check("superuser writes news", adminWrite.status === 200, `HTTP ${adminWrite.status}`)
+  if (adminWrite.status === 200) {
+    const guestSees = await api("GET", `/api/collections/news/records/${adminWrite.json.id}`)
+    check("guest views a news row", guestSees.status === 200 && guestSees.json.key === `e2e-${run}`, `HTTP ${guestSees.status}`)
+    const guestDel = await api("DELETE", `/api/collections/news/records/${adminWrite.json.id}`)
+    check("guest cannot delete news", guestDel.status >= 400, `HTTP ${guestDel.status}`)
+    await api("DELETE", `/api/collections/news/records/${adminWrite.json.id}`, { token: admin.token })
+  }
 
   // --- cleanup (deleting a user cascades to its notes) -----------------------------------
   await api("DELETE", `/api/collections/users/records/${B.id}`, { token: admin.token })
