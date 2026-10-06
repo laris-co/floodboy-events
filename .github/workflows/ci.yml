@@ -1,0 +1,76 @@
+name: ci
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: write   # commits a regenerated collections.json on main
+
+env:
+  POCKETBASE_VERSION: "0.40.4"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: PocketBase (pinned, checksum from the Dockerfile)
+        run: |
+          slug=$(sed -n 's/^ADDON_SLUG=//p' project.env)
+          sha=$(sed -n 's/^ARG POCKETBASE_SHA256_AMD64=//p' "addon/$slug/Dockerfile")
+          zip="pocketbase_${POCKETBASE_VERSION}_linux_amd64.zip"
+          curl -fsSL -o "$zip" "https://github.com/pocketbase/pocketbase/releases/download/v${POCKETBASE_VERSION}/$zip"
+          echo "$sha  $zip" | sha256sum -c -
+          unzip -o "$zip" pocketbase -d "$HOME/bin"
+          echo "$HOME/bin" >> "$GITHUB_PATH"
+      - name: Pinned versions agree
+        run: |
+          slug=$(sed -n 's/^ADDON_SLUG=//p' project.env)
+          grep -q "^ARG POCKETBASE_VERSION=${POCKETBASE_VERSION}$" "addon/$slug/Dockerfile"
+      - name: Generated files follow pocketbase/ (collections.json, the add-on copy)
+        # A migration committed from GitHub's web editor (the panel's "Commit to repo") cannot run
+        # export-collections.sh or sync-addon.sh: regenerate both here instead of failing, and
+        # commit them on main.
+        run: |
+          scripts/export-collections.sh
+          scripts/sync-addon.sh
+          if [ -z "$(git status --porcelain pocketbase addon)" ]; then echo "generated files are current"; exit 0; fi
+          if [ "${{ github.event_name }}" = push ] && [ "${{ github.ref }}" = refs/heads/main ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A pocketbase addon
+            git commit -qm "Regenerate collections.json and the add-on copy from pocketbase/"
+            for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 3; done
+          else
+            echo "::warning::generated files are stale: run scripts/export-collections.sh and scripts/sync-addon.sh"
+          fi
+      - name: Privacy check
+        run: python3 scripts/privacy_check.py
+      - name: Scripts parse (ha-deploy needs Node 22+ for its WebSocket)
+        run: node --check scripts/ha-deploy.mjs && node -e 'if (typeof WebSocket !== "function") process.exit(1)'
+      - name: Add-on in sync
+        run: scripts/sync-addon.sh --check
+      - name: End-to-end (provisioning, rules with/without hooks, import)
+        run: scripts/local-e2e.sh
+
+  docker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker/setup-buildx-action@v3
+      - name: Build check (no warnings)
+        run: |
+          slug=$(sed -n 's/^ADDON_SLUG=//p' project.env)
+          docker buildx build --check "addon/$slug"
+      - name: Build and smoke test
+        run: |
+          port=$(sed -n 's/^DEFAULT_PORT=//p' project.env)
+          docker compose up --build -d
+          for i in $(seq 1 60); do curl -fs "http://127.0.0.1:$port/api/health" && break; sleep 1; done
+          curl -fs "http://127.0.0.1:$port/api/health"
+          docker compose logs | grep -q "credentials shown ONCE"
+          docker compose down -v
