@@ -1,5 +1,5 @@
 name: Floodboy Events
-version: "0.1.0"
+version: "0.1.1"
 image: "ghcr.io/laris-co/{arch}-addon-floodboy-events"
 slug: floodboy_events
 description: PocketBase backend for Floodboy Events
