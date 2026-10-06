@@ -1,0 +1,3982 @@
+{
+  "meta": {
+    "title": "Thailand flood news 2026, Chiang Mai first",
+    "issue": "laris-co/floodboy-oracle#10",
+    "generated_by": "floodboy-oracle (AI)",
+    "rule": "every event cites a URL that was fetched and read; sources with verified=false could not be fetched",
+    "updated": "2026-10-06",
+    "count": 64,
+    "count_by_scope": {
+      "chiang-mai": 28,
+      "thailand": 36
+    },
+    "scopes": {
+      "chiang-mai": "inside Chiang Mai province",
+      "thailand": "anywhere else in Thailand (incl. multi-province warnings)"
+    }
+  },
+  "events": [
+    {
+      "id": "2026-10-06-chiang-mai-mae-taeng-phrao-doi-saket-mae-chaem-mae-rim-chiang-dao-samoeng-doi-tao-san-sai-galyani-vadhana",
+      "event_date": "2026-10-06",
+      "event_start": "2026-10-06",
+      "event_end": "2026-10-06",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Mae Taeng, Phrao, Doi Saket, Mae Chaem, Mae Rim, Chiang Dao, Samoeng, Doi Tao, San Sai, Galyani Vadhana",
+      "place": "ศูนย์บรรเทาสาธารณภัย กองบิน 41",
+      "lat": 19.18952,
+      "lon": 98.86724,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอแม่แตง, จังหวัดเชียงใหม่, ประเทศไทย",
+      "type": "warning",
+      "kind": "warning",
+      "phase": "before",
+      "severity": "warning",
+      "verified": true,
+      "summary_th": "กรมอุตุนิยมวิทยาพยากรณ์ฝนตกหนักถึงหนักมากในเชียงใหม่วันที่ 6 ต.ค. 2569 เสี่ยงน้ำท่วมฉับพลันและน้ำป่าไหลหลาก 10 อำเภอ ได้แก่ แม่แตง พร้าว ดอยสะเก็ด แม่แจ่ม แม่ริม เชียงดาว สะเมิง ดอยเต่า สันทราย และกัลยาณิวัฒนา ศูนย์บรรเทาสาธารณภัย กองบิน 41 ตรวจความพร้อมอุปกรณ์กู้ภัยและเตรียมพร้อม 24 ชั่วโมง",
+      "numbers": [
+        "10 อำเภอ",
+        "6 ตุลาคม"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://chiangmainews.co.th/disaster/4168149"
+      ],
+      "sources": [
+        {
+          "name": "Chiang Mai News (เชียงใหม่นิวส์)",
+          "title": "ศูนย์บรรเทาสาธารณภัย กองบิน 41 ยกระดับความพร้อม รับมือฝนตกหนักถึงหนักมาก 6 ตุลาคม นี้",
+          "url": "https://chiangmainews.co.th/disaster/4168149",
+          "published": "2026-10-05",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-10-05-chiang-mai-phrao-chom-thong-doi-saket-mae-taeng-doi-lo-mae-wang-mae-chaem-samoeng",
+      "event_date": "2026-10-05/2026-10-07",
+      "event_start": "2026-10-05",
+      "event_end": "2026-10-07",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Phrao, Chom Thong, Doi Saket, Mae Taeng, Doi Lo, Mae Wang, Mae Chaem, Samoeng",
+      "place": null,
+      "lat": 19.2884,
+      "lon": 99.21657,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอพร้าว, จังหวัดเชียงใหม่, 50190, ประเทศไทย",
+      "type": "warning",
+      "kind": "warning",
+      "phase": "before",
+      "severity": "warning",
+      "verified": true,
+      "summary_th": "สทนช. ออกประกาศฉบับที่ 9/2569 (3 ต.ค. 2569) เตือน 8 อำเภอของเชียงใหม่ ได้แก่ พร้าว จอมทอง ดอยสะเก็ด แม่แตง ดอยหล่อ แม่วาง แม่แจ่ม และสะเมิง เฝ้าระวังน้ำป่าไหลหลาก ดินถล่ม และน้ำท่วมขังช่วง 5-7 ต.ค. 2569 จากร่องมรสุมและหย่อมความกดอากาศต่ำในทะเลจีนใต้",
+      "numbers": [
+        "ฉบับที่ 9/2569",
+        "8 อำเภอ",
+        "5-7 ต.ค."
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.chiangmainews.co.th/news/chiangmai/4163703/",
+        "https://www.thaipbs.or.th/news/content/559107"
+      ],
+      "sources": [
+        {
+          "name": "Chiang Mai News (เชียงใหม่นิวส์)",
+          "title": "สทนช. เตือน 8 อำเภอเชียงใหม่ เฝ้าระวังน้ำป่าหลาก ดินถล่ม ช่วง 5-7 ต.ค. นี้",
+          "url": "https://www.chiangmainews.co.th/news/chiangmai/4163703/",
+          "published": "2026-10-03",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Thai PBS",
+          "title": "สทนช.เตือนหลายพื้นที่ 5–7 ต.ค. เฝ้าระวังน้ำท่วมฉับพลัน น้ำป่าไหลหลาก ดินโคลนถล่ม",
+          "url": "https://www.thaipbs.or.th/news/content/559107",
+          "published": "2026-10-03",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-10-05-chiang-mai-mae-rim",
+      "event_date": "2026-10-05",
+      "event_start": "2026-10-05",
+      "event_end": "2026-10-05",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Mae Rim",
+      "place": "น้ำตกแม่สาน้อย ภายในสวนพฤกษศาสตร์สมเด็จพระนางเจ้าสิริกิติ์",
+      "lat": 18.95398,
+      "lon": 98.87975,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอแม่ริม, จังหวัดเชียงใหม่, 50180, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "minor",
+      "verified": true,
+      "summary_th": "เวลาประมาณ 16.00 น. วันที่ 5 ต.ค. 2569 เกิดน้ำป่าไหลหลากที่น้ำตกแม่สาน้อย ภายในสวนพฤกษศาสตร์สมเด็จพระนางเจ้าสิริกิติ์ อ.แม่ริม ขณะฝนตกต่อเนื่องทั่วจังหวัด ปภ. เตือนผู้อยู่ใกล้ทางน้ำให้ย้ายไปที่ปลอดภัย และเฝ้าระวังพายุฝนฟ้าคะนองช่วง 5-7 ต.ค. ไม่มีรายงานผู้บาดเจ็บ",
+      "numbers": [
+        "16.00 น.",
+        "5-7 ต.ค.",
+        "สายด่วน 1784"
+      ],
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy016",
+          "name": "คลองแม่ข่า ต.หายยา อ.เมือง จ.เชียงใหม่",
+          "km": 23.3
+        },
+        {
+          "nickname": "FloodBoy022",
+          "name": "สะพานเม็งรายอนุสรณ์ ต.วัดเกต อ.เมือง จ.เชียงใหม่",
+          "km": 24.6
+        },
+        {
+          "nickname": "FloodBoy017",
+          "name": "ศูนย์ส่งเสริมพฤฒพลังผู้สูงอายุ มหาวิทยาลัยเชียงใหม่ ต.ป่าแดด อ.เมืองเชียงใหม่ จ.เชียงใหม่",
+          "km": 24.9
+        }
+      ],
+      "source_urls": [
+        "https://www.khaosodenglish.com/news/2026/10/05/flash-flood-hits-chiang-mai-waterfall-visitors-warned/",
+        "https://www.chiangmainews.co.th/topstories/4168212/"
+      ],
+      "sources": [
+        {
+          "name": "Khaosod English",
+          "title": "Flash flood hits Chiang Mai waterfall, visitors warned",
+          "url": "https://www.khaosodenglish.com/news/2026/10/05/flash-flood-hits-chiang-mai-waterfall-visitors-warned/",
+          "published": "2026-10-05",
+          "lang": "en",
+          "verified": true
+        },
+        {
+          "name": "Chiang Mai News (เชียงใหม่นิวส์)",
+          "title": "(มีคลิป) ด่วน เกิดน้ำป่าไหลหลาก น้ำตกแม่สาน้อย ภายในสวนพฤกษศาสตร์สมเด็จพระนางเจ้าสิริกิติ์",
+          "url": "https://www.chiangmainews.co.th/topstories/4168212/",
+          "published": "2026-10-05",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-10-05-chiang-mai-mueang-chiang-mai-mae-rim",
+      "event_date": "2026-10-05",
+      "event_start": "2026-10-05",
+      "event_end": "2026-10-05",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Mueang Chiang Mai, Mae Rim",
+      "place": "ถนนช้างคลาน (หน้าโรงแรมบัวระวงและดิเอ็มเพรส), ถนนระแกง, ถนนวงแหวนสมโภชเชียงใหม่ 700 ปี (หน้าศาลากลาง), ถนนสมโภชเชียงใหม่ 700 ปี (ทางเข้าหมู่บ้านศรีเทพ); ชุมชนศรีปิงเมือง, กาดก้อม; ถนนโชตนา ต.ดอนแก้ว อ.แม่ริม",
+      "lat": 18.78749,
+      "lon": 98.96724,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, ประเทศไทย",
+      "type": "urban-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "minor",
+      "verified": true,
+      "summary_th": "บ่ายวันที่ 5 ต.ค. 2569 พายุฝนฟ้าคะนองตกหนักนานกว่าหนึ่งชั่วโมงในตัวเมืองเชียงใหม่และ อ.แม่ริม วัดฝนได้ประมาณ 30 มิลลิเมตร น้ำท่วมขังถนนช้างคลาน ถนนระแกง ถนนวงแหวนและถนนสมโภชเชียงใหม่ 700 ปี ระยะราว 100-500 เมตร ระดับน้ำราว 10 ซม. ต้องเร่งระบายน้ำ",
+      "numbers": [
+        "ประมาณ 30 มิลลิเมตร",
+        "ถนนช้างคลาน ~200 เมตร",
+        "ถนนระแกง ~100 เมตร",
+        "ถนนวงแหวนสมโภชเชียงใหม่ 700 ปี ~200 เมตร",
+        "ถนนสมโภชเชียงใหม่ 700 ปี ~500 เมตร",
+        "water levels around 10 cm (4 จุดในตัวเมือง)"
+      ],
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy016",
+          "name": "คลองแม่ข่า ต.หายยา อ.เมือง จ.เชียงใหม่",
+          "km": 2.9
+        },
+        {
+          "nickname": "FloodBoy022",
+          "name": "สะพานเม็งรายอนุสรณ์ ต.วัดเกต อ.เมือง จ.เชียงใหม่",
+          "km": 4.5
+        },
+        {
+          "nickname": "FloodBoy017",
+          "name": "ศูนย์ส่งเสริมพฤฒพลังผู้สูงอายุ มหาวิทยาลัยเชียงใหม่ ต.ป่าแดด อ.เมืองเชียงใหม่ จ.เชียงใหม่",
+          "km": 4.7
+        }
+      ],
+      "source_urls": [
+        "https://www.thaipost.net/district-news/1082840/",
+        "https://www.nationthailand.com/news/general/40071901",
+        "https://www.chiangmainews.co.th/social/4170586/"
+      ],
+      "sources": [
+        {
+          "name": "Thai Post (ไทยโพสต์)",
+          "title": "ฝนถล่มเชียงใหม่ ท่วมถนนในตัวเมือง น้ำป่าหลาก อ.กัลยาณิวัฒนา ชาวบ้านจมน้ำดับ 1 ราย",
+          "url": "https://www.thaipost.net/district-news/1082840/",
+          "published": "2026-10-05",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "The Nation",
+          "title": "Chiang Mai storm lasts over an hour as roads flood on Oct 5",
+          "url": "https://www.nationthailand.com/news/general/40071901",
+          "published": "2026-10-05",
+          "lang": "en",
+          "verified": true
+        },
+        {
+          "name": "Chiang Mai News (เชียงใหม่นิวส์)",
+          "title": "ฝนตกหนักเชียงใหม่ มีผู้เสียชีวิตแล้ว 1 ราย น้ำไหลหลาก หนีไม่ทันขาติดโคลนดับ",
+          "url": "https://www.chiangmainews.co.th/social/4170586/",
+          "published": "2026-10-06",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-10-05-chiang-mai-galyani-vadhana",
+      "event_date": "2026-10-05",
+      "event_start": "2026-10-05",
+      "event_end": "2026-10-05",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Galyani Vadhana",
+      "place": "ที่นาริมห้วยจันทร์ บ้านวัดจันทร์ หมู่ 3 ต.บ้านจันทร์",
+      "lat": 19.01493,
+      "lon": 98.3028,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอกัลยาณิวัฒนา, จังหวัดเชียงใหม่, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "severe",
+      "verified": true,
+      "summary_th": "วันที่ 5 ต.ค. 2569 ฝนตกหนักทำให้น้ำป่าไหลหลากในห้วยจันทร์ ต.บ้านจันทร์ อ.กัลยาณิวัฒนา นางเกศริน อายุ 54 ปี ซึ่งอยู่บริเวณที่นาหนีไม่ทัน ขาติดโคลน ถูกน้ำพัดจมน้ำเสียชีวิต 1 ราย",
+      "numbers": [
+        "ผู้เสียชีวิต 1 ราย",
+        "อายุ 54 ปี"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.thaipost.net/district-news/1082840/",
+        "https://www.chiangmainews.co.th/social/4170586/"
+      ],
+      "sources": [
+        {
+          "name": "Thai Post (ไทยโพสต์)",
+          "title": "ฝนถล่มเชียงใหม่ ท่วมถนนในตัวเมือง น้ำป่าหลาก อ.กัลยาณิวัฒนา ชาวบ้านจมน้ำดับ 1 ราย",
+          "url": "https://www.thaipost.net/district-news/1082840/",
+          "published": "2026-10-05",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Chiang Mai News (เชียงใหม่นิวส์)",
+          "title": "ฝนตกหนักเชียงใหม่ มีผู้เสียชีวิตแล้ว 1 ราย น้ำไหลหลาก หนีไม่ทันขาติดโคลนดับ",
+          "url": "https://www.chiangmainews.co.th/social/4170586/",
+          "published": "2026-10-06",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-10-05-chiang-mai-hot",
+      "event_date": "2026-10-05/2026-10-06",
+      "event_start": "2026-10-05",
+      "event_end": "2026-10-06",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Hot",
+      "place": "บ้านพุย ต.บ่อหลวง (ทางเบี่ยงสะพานข้ามลำห้วย)",
+      "lat": 18.19414,
+      "lon": 98.61297,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอฮอด, จังหวัดเชียงใหม่, 50240, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "moderate",
+      "verified": true,
+      "summary_th": "คืนวันที่ 5 ต.ค. 2569 น้ำป่าไหลหลากรุนแรงซัดทางเบี่ยงระหว่างก่อสร้างสะพานข้ามลำห้วยเชื่อมบ้านพุย ต.บ่อหลวง อ.ฮอด ชาวบ้านที่ไปทำไร่สัญจรไม่ได้ ต้องใช้รถแบคโฮของผู้รับเหมาขนย้ายข้ามลำห้วย ถึงเช้า 6 ต.ค. รถยังผ่านไม่ได้ ผลผลิตกะหล่ำปลีและมะเขือเทศออกสู่ตลาดไม่ได้ และครูราว 10 คนกลับบ้านไม่ได้",
+      "numbers": [
+        "เส้นทาง 18 กิโลเมตร",
+        "ครูประมาณ 10 คน"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.chiangmainews.co.th/social/4170709/"
+      ],
+      "sources": [
+        {
+          "name": "Chiang Mai News (เชียงใหม่นิวส์)",
+          "title": "ระทึก! น้ำป่าซัดลำห้วยในพื้นที่ ต.บ่อหลวง ไม่สามารถสัญจรได้ ต้องใช้รถแบคโฮขนย้ายชาวบ้าน",
+          "url": "https://www.chiangmainews.co.th/social/4170709/",
+          "published": "2026-10-06",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-chiang-mai-chom-thong-mae-taeng-mae-rim",
+      "event_date": "2026-09-29",
+      "event_start": "2026-09-29",
+      "event_end": "2026-09-29",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Chom Thong, Mae Taeng, Mae Rim",
+      "place": "น้ำตกแม่ยะ, น้ำตกผาดอกเสี้ยว (อช.ดอยอินทนนท์); น้ำตกหมอกฟ้า, น้ำตกห้วยตึงเฒ่า (อช.ดอยสุเทพ-ปุย)",
+      "lat": 18.37432,
+      "lon": 98.57652,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอจอมทอง, จังหวัดเชียงใหม่, 50160, ประเทศไทย",
+      "type": "other",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "warning",
+      "verified": true,
+      "summary_th": "ฝนตกหนักวัดได้ 200 มิลลิเมตร ใกล้ยอดดอยอินทนนท์ อ.จอมทอง ทำให้น้ำตกแม่ยะและผาดอกเสี้ยวไหลแรงผิดปกติ น้ำสีแดงขุ่น อุทยานฯ ปิดน้ำตกชั่วคราว รวมทั้งน้ำตกหมอกฟ้า อ.แม่แตง และน้ำตกห้วยตึงเฒ่า อ.แม่ริม จนกว่าสถานการณ์จะกลับสู่ปกติ",
+      "numbers": [
+        "200 millimetres near the summit of Doi Inthanon"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.khaosodenglish.com/news/2026/09/29/chiang-mai-waterfalls-closed-as-heavy-rain-triggers-strong-currents/"
+      ],
+      "sources": [
+        {
+          "name": "Khaosod English",
+          "title": "Chiang Mai waterfalls closed as heavy rain triggers strong currents",
+          "url": "https://www.khaosodenglish.com/news/2026/09/29/chiang-mai-waterfalls-closed-as-heavy-rain-triggers-strong-currents/",
+          "published": "2026-09-29",
+          "lang": "en",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-chiang-mai-omkoi",
+      "event_date": "2026-09-28/2026-09-30",
+      "event_start": "2026-09-28",
+      "event_end": "2026-09-30",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Omkoi",
+      "place": "ต.แม่ตื่น, ลำน้ำแม่ตื่น, สะพานคู่รัก; สะพานเจ้าฟ้าอทิตยาทร (ม่องจ๊อง); ทางหลวง 1099",
+      "lat": 17.64511,
+      "lon": 98.31566,
+      "latlon_source": "nominatim (approx, district centroid): อำเภออมก๋อย, จังหวัดเชียงใหม่, 50310, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "moderate",
+      "verified": true,
+      "summary_th": "ฝนตกหนักใน อ.อมก๋อย ช่วง 28-30 ก.ย. 2569 ฝนสูงสุด 91.5 มม. ที่สถานีบ้านมูเซอ ต้นไม้ล้มทับสายไฟบนทางหลวง 1099 ทำให้ไฟดับทั้งอำเภอ ต่อมาน้ำป่าไหลหลากลงลำน้ำแม่ตื่น บ้านเรือน บ้านพัก และรีสอร์ทจมน้ำ ระดับน้ำสะพานคู่รัก 2.5 เมตร และสะพานเจ้าฟ้าอทิตยาทร (ม่องจ๊อง) 4.09 เมตร อำเภอสั่งเฝ้าระวัง 24 ชั่วโมง",
+      "numbers": [
+        "ฝนสูงสุด 91.5 มม.",
+        "สะพานคู่รัก 2.5 เมตร",
+        "สะพานเจ้าฟ้าอทิตยาทร (ม่องจ๊อง) 4.09 เมตร",
+        "ทางหลวง 1099 กม. 22 และ กม. 98"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.chiangmainews.co.th/social/4153840/",
+        "https://www.chiangmainews.co.th/social/4155106/"
+      ],
+      "sources": [
+        {
+          "name": "Chiang Mai News (เชียงใหม่นิวส์)",
+          "title": "ด่วน! ศูนย์บัญชาการอมก๋อย เตือนเฝ้าระวังน้ำป่า-ดินถล่ม ฝนสูงสุด 91.5 มม. ไฟดับทั้งอำเภอ",
+          "url": "https://www.chiangmainews.co.th/social/4153840/",
+          "published": "2026-09-28",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Chiang Mai News (เชียงใหม่นิวส์)",
+          "title": "อ.อมก๋อย เฝ้าระวังฝนตกหนัก เสี่ยงน้ำป่าไหลหลาก-ดินโคลนถล่ม",
+          "url": "https://www.chiangmainews.co.th/social/4155106/",
+          "published": "2026-09-29",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-chiang-mai-chom-thong",
+      "event_date": "2026-09-28/2026-09-29",
+      "event_start": "2026-09-28",
+      "event_end": "2026-09-29",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Chom Thong",
+      "place": "ต.บ้านหลวง: หมู่ 4 บ้านแม่กลาง, หมู่ 10 บ้านแม่หอย, หมู่ 13 บ้านน้ำลาด, หมู่ 21 บ้านกู่ฮ่อสามัคคี, หมู่ 7 บ้านขุนกลาง, หมู่ 19 บ้านห้วยเฮี้ย (เขตดอยอินทนนท์)",
+      "lat": 18.37432,
+      "lon": 98.57652,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอจอมทอง, จังหวัดเชียงใหม่, 50160, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "moderate",
+      "verified": true,
+      "summary_th": "ฝนสะสมเฉลี่ยต่อเนื่อง 99 มิลลิเมตร ใน อ.จอมทอง ทำให้ 6 หมู่บ้านใน ต.บ้านหลวง ได้รับผลกระทบ (รายงาน 08.45 น. 29 ก.ย. 2569) น้ำแม่กลางล้นเข้าบ้านริมน้ำที่บ้านแม่กลาง ชาวบ้านขนของตั้งแต่ 20.40 น. 28 ก.ย. ที่บ้านน้ำลาดน้ำสูงขึ้น 4 เมตร ท่วมถนน รถเล็กผ่านไม่ได้ ส่วนบ้านขุนกลางฝน 160 มม. ดินสไลด์บ้านเสียหาย 2 หลัง และบ้านห้วยเฮี้ยดินสไลด์ปิดถนน",
+      "numbers": [
+        "ปริมาณน้ำฝนสะสมเฉลี่ยต่อเนื่อง 99 มิลลิเมตร",
+        "6 หมู่บ้าน",
+        "บ้านน้ำลาด น้ำสูงขึ้น 4 เมตร",
+        "บ้านขุนกลาง ฝน 160 มม.",
+        "ดินสไลด์ 2 หลังคาเรือน"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.chiangmainews.co.th/social/4155679/"
+      ],
+      "sources": [
+        {
+          "name": "Chiang Mai News (เชียงใหม่นิวส์)",
+          "title": "อ.จอมทอง ฝนสะสมเฉลี่ยต่อเนื่อง 99 มิลลิเมตร 6 หมู่บ้าน ใน ต.บ้านหลวง ได้รับผลกระทบ",
+          "url": "https://www.chiangmainews.co.th/social/4155679/",
+          "published": "2026-09-29",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-09-24-chiang-mai-all-25-districts",
+      "event_date": "2026-09-24/2026-09-27",
+      "event_start": "2026-09-24",
+      "event_end": "2026-09-27",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "All 25 districts",
+      "place": null,
+      "lat": 18.69517,
+      "lon": 98.44627,
+      "latlon_source": "nominatim (approx, province centroid): จังหวัดเชียงใหม่, ประเทศไทย",
+      "type": "warning",
+      "kind": "warning",
+      "phase": "before",
+      "severity": "warning",
+      "verified": true,
+      "summary_th": "จังหวัดเชียงใหม่แจ้งเตือนทั้ง 25 อำเภอ เตรียมรับมือฝนตกหนักถึงหนักมากช่วง 24-27 ก.ย. 2569 (หนักสุดราว 25 ก.ย.) จากหย่อมความกดอากาศต่ำบริเวณชายฝั่งเวียดนามตอนกลางและมรสุมตะวันตกเฉียงใต้ เสี่ยงน้ำท่วมฉับพลันและน้ำป่าไหลหลากในพื้นที่ลาดเชิงเขาใกล้ทางน้ำและพื้นที่ลุ่ม สั่งเฝ้าระวัง 24 ชั่วโมง และปิดแหล่งท่องเที่ยวธรรมชาติหากมีความเสี่ยง",
+      "numbers": [
+        "25 อำเภอ",
+        "24-27 ก.ย.",
+        "สายด่วน 1784"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.chiangmainews.co.th/social/4137220/",
+        "https://www.thaipost.net/district-news/1074524/"
+      ],
+      "sources": [
+        {
+          "name": "Chiang Mai News (เชียงใหม่นิวส์)",
+          "title": "เชียงใหม่ แจ้งเตือน 25 อำเภอ เตรียมรับมือฝนตกหนักถึงหนักมาก ช่วงวันที่ 25 ก.ย. 2569",
+          "url": "https://www.chiangmainews.co.th/social/4137220/",
+          "published": "2026-09-22",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Thai Post (ไทยโพสต์)",
+          "title": "เชียงใหม่ เจอฝนหนัก 24-27 ก.ย. เสี่ยงน้ำป่า-ดินถล่ม สั่งเฝ้าระวัง 24 ชั่วโมง",
+          "url": "https://www.thaipost.net/district-news/1074524/",
+          "published": "2026-09-23",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-chiang-mai-wiang-haeng",
+      "event_date": "2026-09-20",
+      "event_start": "2026-09-20",
+      "event_end": "2026-09-20",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Wiang Haeng",
+      "place": "ต.แสนไห, ต.เมืองแหง, ต.เปียงหลวง; ถนนเมืองแหง–ปาย",
+      "lat": 19.55937,
+      "lon": 98.64699,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอเวียงแหง, จังหวัดเชียงใหม่, 50350, ประเทศไทย",
+      "type": "landslide",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "moderate",
+      "verified": true,
+      "summary_th": "วันที่ 20 ก.ย. 2569 กรมทรัพยากรธรณีรายงานดินถล่มและน้ำป่าไหลหลากใน อ.เวียงแหง ครอบคลุม ต.แสนไห เมืองแหง และเปียงหลวง ทำให้คอสะพาน 2 แห่งเสียหาย พื้นที่เกษตรถูกน้ำท่วม และดินปิดถนนสายเมืองแหง–ปายและถนนเข้าหมู่บ้าน บางช่วงรถผ่านไม่ได้",
+      "numbers": [
+        "two bridge approaches damaged",
+        "three subdistricts"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.nationthailand.com/news/general/40071263"
+      ],
+      "sources": [
+        {
+          "name": "The Nation",
+          "title": "Thailand reports 6 landslide and flood incidents on Sept 20",
+          "url": "https://www.nationthailand.com/news/general/40071263",
+          "published": "2026-09-20",
+          "lang": "en",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-09-18-chiang-mai-chom-thong",
+      "event_date": "2026-09-18/2026-09-19",
+      "event_start": "2026-09-18",
+      "event_end": "2026-09-19",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Chom Thong",
+      "place": "ต.บ้านหลวง: หมู่ 4 บ้านแม่กลาง, หมู่ 11 บ้านเมืองกลาง, หมู่ 13 บ้านน้ำลาด, หมู่ 21 บ้านกู่ฮ่อสามัคคี; ต.ข่วงเปา หมู่ 2 (ทางหลวง 108)",
+      "lat": 18.37432,
+      "lon": 98.57652,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอจอมทอง, จังหวัดเชียงใหม่, 50160, ประเทศไทย",
+      "type": "river-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "moderate",
+      "verified": true,
+      "summary_th": "ฝนตกหนักต่อเนื่องบนดอยอินทนนท์คืนวันที่ 18 ถึงเช้า 19 ก.ย. 2569 ทำให้น้ำแม่กลางล้นตลิ่งท่วมหมู่บ้านใน ต.บ้านหลวง อ.จอมทอง ชาวบ้านขนของขึ้นที่สูง ระดับน้ำที่บ้านแม่กลาง (หมู่ 4) 3.7 เมตร บ้านเรือนถูกน้ำท่วมที่หมู่ 11 จำนวน 1 หลัง หมู่ 13 จำนวน 3 หลัง และหมู่ 21 จำนวน 7 หลัง",
+      "numbers": [
+        "หมู่ 4 บ้านแม่กลาง ระดับน้ำ 3.7 เมตร",
+        "หมู่ 11: 1 ครัวเรือน",
+        "หมู่ 13: 3 ครัวเรือน",
+        "หมู่ 21: 7 ครัวเรือน"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.chiangmainews.co.th/news/chiangmai/4127961/",
+        "https://www.chiangmainews.co.th/social/4128557/"
+      ],
+      "sources": [
+        {
+          "name": "Chiang Mai News (เชียงใหม่นิวส์)",
+          "title": "ชาว ต.บ้านหลวง ขนของขึ้นที่สูงหนีน้ำแม่กลางไหลท่วมเอ่อ ในขณะที่ระดับน้ำสูงขึ้นเรื่อยๆ",
+          "url": "https://www.chiangmainews.co.th/news/chiangmai/4127961/",
+          "published": "2026-09-19",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Chiang Mai News (เชียงใหม่นิวส์)",
+          "title": "จอมทองสถานการณ์น้ำยังไม่คลี่คลาย ตำบลบ้านหลวง 4 หมู่บ้านยังมีน้ำท่วมขัง",
+          "url": "https://www.chiangmainews.co.th/social/4128557/",
+          "published": "2026-09-19",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-chiang-mai-mae-rim",
+      "event_date": "2026-08-15",
+      "event_start": "2026-08-15",
+      "event_end": "2026-08-15",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Mae Rim",
+      "place": "น้ำตกแม่สา อุทยานแห่งชาติดอยสุเทพ-ปุย",
+      "lat": 18.95398,
+      "lon": 98.87975,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอแม่ริม, จังหวัดเชียงใหม่, 50180, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "moderate",
+      "verified": false,
+      "summary_th": "บ่ายวันที่ 15 ส.ค. 2569 ฝนตกหนักบนพื้นที่ต้นน้ำทำให้น้ำป่าไหลหลากลงน้ำตกแม่สา อ.แม่ริม นักท่องเที่ยวที่เล่นน้ำอยู่ถูกกระแสน้ำพัดและติดค้าง เจ้าหน้าที่อุทยานฯ ช่วยออกมาได้ทั้งหมด ส่วนใหญ่บาดเจ็บเล็กน้อย 1 รายมีอาการเวียนศีรษะ ส่งโรงพยาบาล ไม่มีผู้เสียชีวิต อุทยานฯ ประกาศปิดน้ำตกแม่สาชั่วคราวตั้งแต่ 15 ส.ค. 2569",
+      "numbers": [
+        "16.20 น. (Thai PBS / Bangkokbiznews)",
+        "15.00 น. (Khaosod)",
+        "1 tourist swept away / sent to hospital"
+      ],
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy016",
+          "name": "คลองแม่ข่า ต.หายยา อ.เมือง จ.เชียงใหม่",
+          "km": 23.3
+        },
+        {
+          "nickname": "FloodBoy022",
+          "name": "สะพานเม็งรายอนุสรณ์ ต.วัดเกต อ.เมือง จ.เชียงใหม่",
+          "km": 24.6
+        },
+        {
+          "nickname": "FloodBoy017",
+          "name": "ศูนย์ส่งเสริมพฤฒพลังผู้สูงอายุ มหาวิทยาลัยเชียงใหม่ ต.ป่าแดด อ.เมืองเชียงใหม่ จ.เชียงใหม่",
+          "km": 24.9
+        }
+      ],
+      "source_urls": [
+        "https://www.thaipbs.or.th/news/content/509471",
+        "https://www.khaosod.co.th/around-thailand/news_10361511",
+        "https://www.bangkokbiznews.com/news/news-update/1247589",
+        "https://www.khaosodenglish.com/featured/2026/08/16/flash-flood-hits-mae-sa-waterfall-tourist-swept-downstream/"
+      ],
+      "sources": [
+        {
+          "name": "Thai PBS",
+          "title": "ประกาศปิดชั่วคราว \"น้ำตกแม่สา\" หลังน้ำป่าไหลหลาก",
+          "url": "https://www.thaipbs.or.th/news/content/509471",
+          "published": "2026-08-16",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Khaosod (ข่าวสด)",
+          "title": "ระทึก เกิดน้ำป่าไหลฉับพลัน พัดนักท่องเที่ยว ขณะกำลังเล่นน้ำกลางน้ำตกแม่สา",
+          "url": "https://www.khaosod.co.th/around-thailand/news_10361511",
+          "published": "2026-08-15",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Bangkokbiznews (กรุงเทพธุรกิจ)",
+          "title": "ด่วน! น้ำป่าหลาก สั่งปิด “น้ำตกแม่สา” ชั่วคราว จนกว่าสถานการณ์จะกลับสู่ปกติ",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1247589",
+          "published": null,
+          "lang": "th",
+          "verified": true,
+          "note": "page header shows 6 ต.ค. 2569 (likely render date)"
+        },
+        {
+          "name": "Khaosod English",
+          "title": "Flash flood hits Mae Sa waterfall, tourist swept downstream",
+          "url": "https://www.khaosodenglish.com/featured/2026/08/16/flash-flood-hits-mae-sa-waterfall-tourist-swept-downstream/",
+          "published": "2026-08-16",
+          "lang": "en",
+          "verified": false,
+          "note": "WebFetch returned HTTP 403; date from URL, content not read"
+        }
+      ],
+      "note": "พิกัดเดิมเป็นค่าประมาณจากความจำ ถูกตัดออก; ใช้ geocode ระดับอำเภอแทน"
+    },
+    {
+      "id": "2026-08-09-chiang-mai-mueang-chiang-mai",
+      "event_date": "2026-08-09",
+      "event_start": "2026-08-09",
+      "event_end": "2026-08-09",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Mueang Chiang Mai",
+      "place": "ร้านอาหารริมน้ำปิง ต.วัดเกต อ.เมืองเชียงใหม่",
+      "lat": 18.78749,
+      "lon": 98.96724,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, ประเทศไทย",
+      "type": "river-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "minor",
+      "verified": true,
+      "summary_th": "วันที่ 9 ส.ค. 2569 ฝนสะสมทางตอนเหนือของจังหวัดทำให้น้ำปิงเพิ่มสูงขึ้นและล้นตลิ่งท่วมร้านอาหารริมฝั่งในเขต ต.วัดเกต ตัวเมืองเชียงใหม่ ระดับน้ำสถานี P.67 อยู่ที่ 1.76 เมตร (01.00 น.) เพิ่มเป็น 1.87 เมตร (13.00 น.) ต่ำกว่าจุดล้นตลิ่ง 3.0 เมตร ชลประทานเปิดประตูระบายน้ำแม่สอย อ.จอมทอง ทั้งหมด 8 ช่องบาน เร่งระบายน้ำลงเขื่อนภูมิพล",
+      "numbers": [
+        "1.76 เมตร (01.00)",
+        "1.87 เมตร ในเวลา 13.00 น.",
+        "จุดล้นตลิ่ง 3.0 เมตร (P.67)",
+        "เปิดบานประตูระบายน้ำทั้งหมด 8 ช่องบาน"
+      ],
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy016",
+          "name": "คลองแม่ข่า ต.หายยา อ.เมือง จ.เชียงใหม่",
+          "km": 2.9
+        },
+        {
+          "nickname": "FloodBoy022",
+          "name": "สะพานเม็งรายอนุสรณ์ ต.วัดเกต อ.เมือง จ.เชียงใหม่",
+          "km": 4.5
+        },
+        {
+          "nickname": "FloodBoy017",
+          "name": "ศูนย์ส่งเสริมพฤฒพลังผู้สูงอายุ มหาวิทยาลัยเชียงใหม่ ต.ป่าแดด อ.เมืองเชียงใหม่ จ.เชียงใหม่",
+          "km": 4.7
+        }
+      ],
+      "source_urls": [
+        "https://www.chiangmainews.co.th/social/3982376/"
+      ],
+      "sources": [
+        {
+          "name": "Chiang Mai News (เชียงใหม่นิวส์)",
+          "title": "น้ำปิงล้นตลิ่งท่วมร้านอาหารริมฝั่งในตัวเมืองเชียงใหม่ ชลประทานสั่งยกบานประตูน้ำเร่งระบายน้ำ",
+          "url": "https://www.chiangmainews.co.th/social/3982376/",
+          "published": "2026-08-09",
+          "lang": "th",
+          "verified": true,
+          "note": "No P.1 reading in article; levels given are for P.67. Article's 'overflow' claim sits alongside Thai PBS 8 Aug statement 'น้ำไม่ล้นตลิ่ง' — localized riverside-shop flooding only"
+        }
+      ],
+      "note": "พิกัดเดิมเป็นค่าประมาณจากความจำ ถูกตัดออก; ใช้ geocode ระดับอำเภอแทน"
+    },
+    {
+      "id": "2026-08-08-chiang-mai-chiang-dao-mae-taeng-wiang-haeng-upper-basin-mueang-chiang-mai",
+      "event_date": "2026-08-08/2026-08-10",
+      "event_start": "2026-08-08",
+      "event_end": "2026-08-10",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Chiang Dao, Mae Taeng, Wiang Haeng (upper basin); Mueang Chiang Mai",
+      "place": "P.92 สะพานบ้านเมืองกื้ด; P.20 อ.เชียงดาว; P.67 บ้านแม่แต ต.แม่แฝกเก่า อ.สันทราย; ฝายดอยน้อย; ประตูระบายน้ำแม่สอย อ.จอมทอง",
+      "lat": 19.53575,
+      "lon": 98.94617,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอเชียงดาว, จังหวัดเชียงใหม่, ประเทศไทย",
+      "type": "river-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "warning",
+      "verified": true,
+      "summary_th": "ฝนตกหนักใน อ.เชียงดาว แม่แตง เวียงแหง ทำให้มวลน้ำไหลผ่านสถานี P.92 195 ลบ.ม./วินาที ชลประทานเชียงใหม่เร่งพร่องน้ำปิงจากระดับเก็บกักปกติ +301.5 ม.รทก. ลงเหลือ +300.9 ม.รทก. คาดน้ำไหลผ่านตัวเมืองราว 270-290 ลบ.ม./วินาที ช่วงเที่ยงคืน และยืนยัน \"น้ำไม่ล้นตลิ่ง\" กรมชลประทานเฝ้าระวัง 24 ชั่วโมงในเชียงใหม่และน่าน",
+      "numbers": [
+        "P.92 (สะพานบ้านเมืองกื้ด): 195 ลบ.ม./วินาที",
+        "P.20 (อ.เชียงดาว): 49.50 ลบ.ม./วินาที",
+        "P.67 (บ้านแม่แต): 205 ลบ.ม./วินาที",
+        "270-290 ลบ.ม./วินาที (ผ่านตัวเมือง)",
+        "+301.5 ม.รทก. → +300.9 ม.รทก.",
+        "ฝายดอยน้อย 150 ลบ.ม./วินาที",
+        "แม่สอย 7 บาน 140.43 ลบ.ม./วินาที"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.thaipbs.or.th/news/content/509205",
+        "https://www.nationthailand.com/news/general/40069597"
+      ],
+      "sources": [
+        {
+          "name": "Thai PBS",
+          "title": "ชลประทานเชียงใหม่เร่งพร่องน้ำปิง รับมวลน้ำเหนือไหลผ่านตัวเมือง",
+          "url": "https://www.thaipbs.or.th/news/content/509205",
+          "published": "2026-08-08",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "The Nation",
+          "title": "Chiang Mai and Nan step up flood watch as rivers rise",
+          "url": "https://www.nationthailand.com/news/general/40069597",
+          "published": "2026-08-10",
+          "lang": "en",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-chiang-mai-phrao-wiang-haeng-mae-ai",
+      "event_date": "2026-08-07/2026-08-08",
+      "event_start": "2026-08-07",
+      "event_end": "2026-08-08",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Phrao, Wiang Haeng, Mae Ai",
+      "place": "ต.บ้านโป่ง, ป่าตุ้ม, เวียง, เมืองแหง, สันต้นหมื้อ; บ้านหนองปลามัน ต.น้ำแพร่ อ.พร้าว (ห้วยแม่วะ)",
+      "lat": 19.2884,
+      "lon": 99.21657,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอพร้าว, จังหวัดเชียงใหม่, 50190, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "moderate",
+      "verified": true,
+      "summary_th": "ฝนตกหนักคืนวันที่ 7 ส.ค. 2569 ทำให้เกิดอุทกภัยใน 3 อำเภอ คือ พร้าว เวียงแหง และแม่อาย รวม 5 ตำบล 9 หมู่บ้าน 159 ครัวเรือน ที่บ้านหนองปลามัน ต.น้ำแพร่ อ.พร้าว ห้วยแม่วะล้นท่วมวัดและบ้านเรือนราว 03.00 น. วันที่ 8 ส.ค. ปภ.เชียงใหม่รายงานว่าทุกพื้นที่กลับเข้าสู่ภาวะปกติแล้ว",
+      "numbers": [
+        "3 อำเภอ",
+        "9 หมู่บ้าน",
+        "159 ครัวเรือน",
+        "พร้าว 49 ครัวเรือน",
+        "เวียงแหง 50 ครัวเรือน",
+        "แม่อาย 60 ครัวเรือน"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.realnewsthailand.net/article/69424/",
+        "https://www.bangkokbiznews.com/news/news-update/1246569"
+      ],
+      "sources": [
+        {
+          "name": "Real News Thailand (ข่าวจริงประเทศไทย)",
+          "title": "สำนักงานป้องกันและบรรเทาสาธารณภัยจังหวัดเชียงใหม่ รายงานอุทกภัยจากฝนตกหนักเมื่อคืนวันที่ 7 สิงหาคม 2569 กระทบ 3 อำเภอ ล่าสุดทุกพื้นที่สถานการณ์กลับเข้าสู่ภาวะปกติแล้ว",
+          "url": "https://www.realnewsthailand.net/article/69424/",
+          "published": "2026-08-08",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Bangkokbiznews (กรุงเทพธุรกิจ)",
+          "title": "น้ำท่วมอำเภอพร้าว เชียงใหม่ เร่งสูบน้ำ ขนของ ตรวจพบกลุ่มฝนจ่อซ้ำ",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1246569",
+          "published": null,
+          "lang": "th",
+          "verified": true,
+          "note": "page header shows 6 ต.ค. 2569 (likely render date); body gives event 8 สิงหาคม 2569 ~03:00"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-05-chiang-mai-all-25-districts",
+      "event_date": "2026-08-05/2026-08-08",
+      "event_start": "2026-08-05",
+      "event_end": "2026-08-08",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "All 25 districts",
+      "place": "สถานี P.1 สะพานนวรัฐ อ.เมืองเชียงใหม่",
+      "lat": 18.69517,
+      "lon": 98.44627,
+      "latlon_source": "nominatim (approx, province centroid): จังหวัดเชียงใหม่, ประเทศไทย",
+      "type": "warning",
+      "kind": "warning",
+      "phase": "before",
+      "severity": "warning",
+      "verified": true,
+      "summary_th": "ผู้ว่าฯ รัฐพล นราดิศร สั่งการทุกอำเภอเตรียมรับมือฝนตกหนักช่วง 6-8 ส.ค. 2569 จากร่องมรสุมและมรสุมตะวันตกเฉียงใต้ เสี่ยงน้ำท่วมฉับพลัน น้ำล้นตลิ่ง และดินถล่ม ขณะที่โครงการชลประทานเชียงใหม่รายงาน 5 ส.ค. 2569 ว่าน้ำปิงยังต่ำตลิ่งตลอดแนว สถานี P.1 สะพานนวรัฐ ปริมาณน้ำ 162.00 ลบ.ม.ต่อวินาที ระดับน้ำต่ำกว่าตลิ่ง 2.17 ม.",
+      "numbers": [
+        "P.1 (สะพานนวรัฐ): ปริมาณน้ำ 162.00 ลบ.ม.ต่อวินาที ระดับน้ำต่ำกว่าตลิ่ง 2.17 ม.",
+        "P.67 (บ้านแม่แต): ปริมาณน้ำ 132.00 ลบ.ม.ต่อวินาที ระดับน้ำต่ำกว่าตลิ่ง 1.91 ม.",
+        "P.20 (บ้านเชียงดาว): ปริมาณน้ำ 28.44 ลบ.ม.ต่อวินาที ระดับน้ำต่ำกว่าตลิ่ง 2.22 ม.",
+        "August 6-8, 2026"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.chiangmaicitylife.com/citynews/general/chiang-mai-issues-urgent-order-ahead-of-heavy-rain-6th-8th-august/",
+        "https://mgronline.com/local/detail/9690000076596"
+      ],
+      "sources": [
+        {
+          "name": "Chiang Mai Citylife",
+          "title": "Chiang Mai issues urgent order ahead of heavy rain 6th–8th August",
+          "url": "https://www.chiangmaicitylife.com/citynews/general/chiang-mai-issues-urgent-order-ahead-of-heavy-rain-6th-8th-august/",
+          "published": "2026-08-05",
+          "lang": "en",
+          "verified": true
+        },
+        {
+          "name": "MGR Online (ผู้จัดการออนไลน์)",
+          "title": "น้ำปิงเชียงใหม่ยังต่ำตลิ่งตลอดแนว!มวลน้ำยังน้อยกว่าความจุ 30% แต่ยังต้องเข้มระบบเตือนภัย",
+          "url": "https://mgronline.com/local/detail/9690000076596",
+          "published": "2026-08-05",
+          "lang": "th",
+          "verified": true
+        }
+      ],
+      "note": "พิกัดเดิมเป็นค่าประมาณจากความจำ ถูกตัดออก; ใช้ geocode ระดับอำเภอแทน"
+    },
+    {
+      "id": "2026-07-30-chiang-mai-mae-ai",
+      "event_date": "2026-07-30",
+      "event_start": "2026-07-30",
+      "event_end": "2026-07-30",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Mae Ai",
+      "place": "บ้านห้องหลวง หมู่ 8 ต.แม่อาย; บ้านสันต้นม่วง หมู่ 3 ต.มะลิกา; บ้านห้องน้อย หมู่ 6 ต.แม่อาย; หมู่ 14 ต.แม่นาวาง (ทางหลวง ชม.3023); วัดบ้านปางต้นเดื่อ",
+      "lat": 19.96115,
+      "lon": 99.34058,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอแม่อาย, จังหวัดเชียงใหม่, 50280, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "moderate",
+      "verified": true,
+      "summary_th": "ตั้งแต่ 04.00 น. วันที่ 30 ก.ค. 2569 ฝนตกหนักใน อ.แม่อาย ทำให้น้ำป่าไหลหลาก ดินสไลด์ และต้นไม้ล้ม น้ำห้วยแม่อายล้นเข้าบ้านเรือน วัด และถนน 3 หมู่บ้าน 2 ตำบล น้ำท่วมทางหลวง 107 ราว 100 เมตร และดินสไลด์บนทางหลวง ชม.3023 ฝนสะสม 12 ชม. สูงสุดที่บ้านปางต้นเดื่อ 119.0 มม. ผบช.ตชด. ส่งกำลังพลตำรวจจิตอาสา 20 นาย เข้าช่วยเหลือ ไม่มีผู้บาดเจ็บ",
+      "numbers": [
+        "Ban Pang Ton Duea (119.0mm)",
+        "Ban Hua Mueang Ngam (111.0mm)",
+        "Ban Pha Tai (106.5mm)",
+        "Approximately 100 metres of Highway 107 flooded",
+        "Three villages across two subdistricts",
+        "กำลังพลตำรวจจิตอาสา รวม 20 นาย"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.chiangmaicitylife.com/citynews/general/flash-flooding-hits-mae-ai-as-heavy-rain-continues-agencies-step-up-monitoring/",
+        "https://www.thansettakij.com/general-news/665257"
+      ],
+      "sources": [
+        {
+          "name": "Chiang Mai Citylife",
+          "title": "Flash flooding hits Mae Ai as heavy rain continues, agencies step up monitoring",
+          "url": "https://www.chiangmaicitylife.com/citynews/general/flash-flooding-hits-mae-ai-as-heavy-rain-continues-agencies-step-up-monitoring/",
+          "published": "2026-07-30",
+          "lang": "en",
+          "verified": true
+        },
+        {
+          "name": "Thansettakij (ฐานเศรษฐกิจ)",
+          "title": "ผบช.ตชด.สั่งเร่งช่วยเหลือชาวแม่อาย เชียงใหม่ ประสบภัยฝนถล่ม ดินสไลด์",
+          "url": "https://www.thansettakij.com/general-news/665257",
+          "published": "2026-07-30",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-07-22-chiang-mai-mae-ai",
+      "event_date": "2026-07-22",
+      "event_start": "2026-07-22",
+      "event_end": "2026-07-22",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Mae Ai",
+      "place": "บ้านใหม่หมอกจ๋าม หมู่ 8 ต.ท่าตอน; บ้านห้วยส้าน หมู่ 10",
+      "lat": 19.96115,
+      "lon": 99.34058,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอแม่อาย, จังหวัดเชียงใหม่, 50280, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "minor",
+      "verified": false,
+      "summary_th": "เย็นวันที่ 22 ก.ค. 2569 ฝนตกหนักทำให้เกิดน้ำท่วมฉับพลันหลายจุดใน อ.แม่อาย ที่บ้านใหม่หมอกจ๋าม ต.ท่าตอน น้ำจากลำเหมืองศาลาล้นเข้าถนนและบ้านเรือน รวมได้รับผลกระทบ 7 หลัง ส่วนบ้านห้วยส้านเศษไม้อุดทางระบายน้ำท่วมบ้าน 1 หลัง ต่อมาฝนหยุดและระดับน้ำกลับสู่ปกติ",
+      "numbers": [
+        "seven homes affected in total",
+        "six homes, with one house flooded inside",
+        "One home flooded (Ban Huai San)"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.chiangmaicitylife.com/citynews/general/heavy-rain-floods-homes-in-mae-ai-chiang-mai/",
+        "https://www.travelandtourworld.com/news/article/m12ijaj48f68/"
+      ],
+      "sources": [
+        {
+          "name": "Chiang Mai Citylife",
+          "title": "Heavy rain floods homes in Mae Ai, Chiang Mai",
+          "url": "https://www.chiangmaicitylife.com/citynews/general/heavy-rain-floods-homes-in-mae-ai-chiang-mai/",
+          "published": "2026-07-23",
+          "lang": "en",
+          "verified": true
+        },
+        {
+          "name": "Travel And Tour World",
+          "title": "Chiang Mai’s Mae Ai Flooding Sparks Fresh Thailand Monsoon Travel Alert as Torrential Rain Inundates Homes and Exposes Seasonal Risks Across Northern Tourism Routes—What Every Thailand Traveller Should Know",
+          "url": "https://www.travelandtourworld.com/news/article/m12ijaj48f68/",
+          "published": null,
+          "lang": "en",
+          "verified": false,
+          "note": "WebFetch returned HTTP 403; title taken from search result only, content not read"
+        }
+      ]
+    },
+    {
+      "id": "2026-05-30-chiang-mai-mueang-chiang-mai",
+      "event_date": "2026-05-30",
+      "event_start": "2026-05-30",
+      "event_end": "2026-05-30",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Mueang Chiang Mai",
+      "place": "ถนนศิริมังคลาจารย์, แยกฟ้าธานี",
+      "lat": 18.78749,
+      "lon": 98.96724,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, ประเทศไทย",
+      "type": "urban-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "minor",
+      "verified": true,
+      "summary_th": "เช้าวันที่ 30 พ.ค. 2569 ฝนตกหนักในเมืองเชียงใหม่ ทำให้เกิดน้ำรอระบาย น้ำท่วมถนนศิริมังคลาจารย์และแยกฟ้าธานี กรมอุตุนิยมวิทยาเตือนภาคเหนือมีฝน 70% ของพื้นที่",
+      "numbers": [
+        "06:50 น.",
+        "ฝน 70%"
+      ],
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy016",
+          "name": "คลองแม่ข่า ต.หายยา อ.เมือง จ.เชียงใหม่",
+          "km": 2.9
+        },
+        {
+          "nickname": "FloodBoy022",
+          "name": "สะพานเม็งรายอนุสรณ์ ต.วัดเกต อ.เมือง จ.เชียงใหม่",
+          "km": 4.5
+        },
+        {
+          "nickname": "FloodBoy017",
+          "name": "ศูนย์ส่งเสริมพฤฒพลังผู้สูงอายุ มหาวิทยาลัยเชียงใหม่ ต.ป่าแดด อ.เมืองเชียงใหม่ จ.เชียงใหม่",
+          "km": 4.7
+        }
+      ],
+      "source_urls": [
+        "https://www.bangkokbiznews.com/news/1236361"
+      ],
+      "sources": [
+        {
+          "name": "Bangkokbiznews (กรุงเทพธุรกิจ)",
+          "title": "ฝนตกหนักเชียงใหม่ น้ำท่วมถนนศิริมังคลาจารย์ เตือนเหนือมีฝน 70%",
+          "url": "https://www.bangkokbiznews.com/news/1236361",
+          "published": null,
+          "lang": "th",
+          "verified": true,
+          "note": "page header shows 6 ต.ค. 2569 (likely render date); article body gives event date 30 พฤษภาคม 2569"
+        }
+      ]
+    },
+    {
+      "id": "2026-05-28-chiang-mai-all-25-districts",
+      "event_date": "2026-05-28/2026-06-01",
+      "event_start": "2026-05-28",
+      "event_end": "2026-06-01",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "All 25 districts",
+      "place": null,
+      "lat": 18.69517,
+      "lon": 98.44627,
+      "latlon_source": "nominatim (approx, province centroid): จังหวัดเชียงใหม่, ประเทศไทย",
+      "type": "warning",
+      "kind": "warning",
+      "phase": "before",
+      "severity": "warning",
+      "verified": true,
+      "summary_th": "เชียงใหม่ออกประกาศเตือนน้ำท่วมด่วนทั้ง 25 อำเภอ จากฝนตกหนักถึงหนักมากช่วง 28 พ.ค.-1 มิ.ย. 2569 พร้อมเปิดใช้ระบบเตือนภัย CMFlood ของมหาวิทยาลัยเชียงใหม่ ซึ่งมีฉากทัศน์ระดับน้ำสถานี P.1 ระหว่าง 4.30-5.30 เมตร (ปี 2567 P.1 เคยขึ้นถึง 5.30 เมตร)",
+      "numbers": [
+        "P.1 station reached 5.30 metres (2024)",
+        "P.1 station readings between 4.30 and 5.30 metres (CMFlood scenarios)",
+        "all 25 districts"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.chiangmaicitylife.com/citynews/general/chiang-mai-issues-urgent-flood-alert-as-heavy-rain-forecast-through-1st-june/"
+      ],
+      "sources": [
+        {
+          "name": "Chiang Mai Citylife",
+          "title": "Chiang Mai issues urgent flood alert as heavy rain forecast through 1st June",
+          "url": "https://www.chiangmaicitylife.com/citynews/general/chiang-mai-issues-urgent-flood-alert-as-heavy-rain-forecast-through-1st-june/",
+          "published": "2026-05-29",
+          "lang": "en",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-05-14-chiang-mai-all-25-districts",
+      "event_date": "2026-05-14/2026-05-18",
+      "event_start": "2026-05-14",
+      "event_end": "2026-05-18",
+      "year": 2026,
+      "historical": false,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "All 25 districts",
+      "place": null,
+      "lat": 18.69517,
+      "lon": 98.44627,
+      "latlon_source": "nominatim (approx, province centroid): จังหวัดเชียงใหม่, ประเทศไทย",
+      "type": "warning",
+      "kind": "warning",
+      "phase": "before",
+      "severity": "warning",
+      "verified": true,
+      "summary_th": "จังหวัดเชียงใหม่ออกประกาศเตือนด่วนทั้ง 25 อำเภอ ให้เตรียมรับมือฝนตกหนักถึงหนักมากช่วง 14-18 พ.ค. 2569 เสี่ยงน้ำท่วมฉับพลัน น้ำป่าไหลหลาก และน้ำท่วมขัง กรมอุตุนิยมวิทยาประกาศเข้าสู่ฤดูฝนวันที่ 15 พ.ค. 2569 รองผู้ว่าฯ ศิวกร บัวผัน สั่งเฝ้าระวัง ปิดพื้นที่เสี่ยง และเตรียมศูนย์พักพิงชั่วคราว",
+      "numbers": [
+        "all 25 districts",
+        "May 14-18, 2026"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.chiangmaicitylife.com/citynews/general/chiang-mai-issues-urgent-flood-warning-for-all-25-districts-as-rainy-season-begins/"
+      ],
+      "sources": [
+        {
+          "name": "Chiang Mai Citylife",
+          "title": "Chiang Mai issues urgent flood warning for all 25 districts as rainy season begins",
+          "url": "https://www.chiangmaicitylife.com/citynews/general/chiang-mai-issues-urgent-flood-warning-for-all-25-districts-as-rainy-season-begins/",
+          "published": "2026-05-15",
+          "lang": "en",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2025-09-27-chiang-mai-mueang-chiang-mai",
+      "event_date": "2025-09-27/2025-09-28",
+      "event_start": "2025-09-27",
+      "event_end": "2025-09-28",
+      "year": 2025,
+      "historical": true,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Mueang Chiang Mai",
+      "place": "สะพานนวรัฐ (P.1), ชุมชนป่าพร้าวนอก, เจริญประเทศ, ช้างคลาน",
+      "lat": 18.78749,
+      "lon": 98.96724,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, ประเทศไทย",
+      "type": "river-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "moderate",
+      "verified": true,
+      "summary_th": "คืน 27 ก.ย. 2568 น้ำปิงที่ P.1 สะพานนวรัฐขึ้นสูงสุด 3.93 เมตร เกินจุดวิกฤต 3.70 เมตร ชุมชนนอกแนวคันกั้นน้ำในเขตเทศบาลนครเชียงใหม่ถูกน้ำเอ่อท่วม ก่อนลดลงเหลือ 3.50 เมตรเวลา 08.00 น. วันที่ 28 ก.ย. ขณะเตรียมรับพายุบัวลอย ตารางกรมชลประทานบันทึกสูงสุดปี 2568 ไว้ 3.91 ม. วันที่ 28 ก.ย. ต่ำกว่าปี 2567 มาก",
+      "numbers": [
+        "3.93 เมตร (MGR)",
+        "RID: 2568 = 3.91 ม.(รสม.) 28 ก.ย.",
+        "คาดการณ์ 3.90 เมตร 22.00-24.00 น.",
+        "3.50 เมตร 08.00 น.",
+        "ลดลง 6 เซนติเมตรต่อชั่วโมง",
+        "จุดวิกฤต 3.70 เมตร",
+        "แนวป้องกัน 4.20 เมตร",
+        "ฝน 110 มิลลิเมตร อ.แม่แตง"
+      ],
+      "p1_peak_m": 3.91,
+      "p1_peak_date": "2025-09-28",
+      "p1_peak_note": "MGR รายงาน 3.93 ม.",
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy016",
+          "name": "คลองแม่ข่า ต.หายยา อ.เมือง จ.เชียงใหม่",
+          "km": 2.9
+        },
+        {
+          "nickname": "FloodBoy022",
+          "name": "สะพานเม็งรายอนุสรณ์ ต.วัดเกต อ.เมือง จ.เชียงใหม่",
+          "km": 4.5
+        },
+        {
+          "nickname": "FloodBoy017",
+          "name": "ศูนย์ส่งเสริมพฤฒพลังผู้สูงอายุ มหาวิทยาลัยเชียงใหม่ ต.ป่าแดด อ.เมืองเชียงใหม่ จ.เชียงใหม่",
+          "km": 4.7
+        }
+      ],
+      "source_urls": [
+        "https://mgronline.com/local/detail/9680000092680",
+        "https://www.thairath.co.th/news/local/north/2885528",
+        "http://water.rid.go.th/hyd/WLMax/WL_Max_Ping.pdf"
+      ],
+      "sources": [
+        {
+          "name": "MGR Online",
+          "title": "แม่น้ำปิงเชียงใหม่P.1สะพานนวรัฐ ลดลงพ้นวิกฤต หลังขึ้นสูงสุด 3.93 ม.-เฝ้าระวังต่อเตรียมพร้อมรับพายุ \"บัวลอย\"",
+          "url": "https://mgronline.com/local/detail/9680000092680",
+          "published": "2025-09-28",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "ไทยรัฐ",
+          "title": "เชียงใหม่ Cell Broadcast ดังรัว เฝ้าระวังน้ำปิงมวลน้ำระลอกใหม่สูงสุดช่วงเที่ยงคืนนี้",
+          "url": "https://www.thairath.co.th/news/local/north/2885528",
+          "published": "2025-09-27",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "กรมชลประทาน (RID) ส่วนอุทกวิทยา",
+          "title": "ระดับน้ำสูงสุดรายปี สถานี P.1 แม่น้ำปิง สะพานนวรัฐ อ.เมือง จ.เชียงใหม่ (ปี พ.ศ. 2532 - 2568)",
+          "url": "http://water.rid.go.th/hyd/WLMax/WL_Max_Ping.pdf",
+          "published": null,
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2024-10-05-chiang-mai-mueang-chiang-mai",
+      "event_date": "2024-10-05/2024-10-06",
+      "event_start": "2024-10-05",
+      "event_end": "2024-10-06",
+      "year": 2024,
+      "historical": true,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Mueang Chiang Mai",
+      "place": "สะพานนวรัฐ (P.1), ตลาดวโรรส, ตลาดต้นลำไย, ไนท์บาซาร์, ถนนช้างคลาน, ถนนแก้วนวรัฐ, สถานีขนส่งอาเขต, แยกศาลเด็ก",
+      "lat": 18.78749,
+      "lon": 98.96724,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, ประเทศไทย",
+      "type": "river-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "severe",
+      "verified": true,
+      "summary_th": "5 ต.ค. 2567 น้ำปิงที่ P.1 สะพานนวรัฐขึ้นสูงสุดเป็นประวัติการณ์ กรมชลประทานบันทึก 5.30 ม.(รสม.) วันที่ 5 ต.ค. 2567 สื่อรายงานระหว่างวัน 5.25-5.29 เมตร และระบุว่าสูงสุดในรอบ 50 ปี น้ำล้นท่วมตลาดวโรรส ตลาดต้นลำไย ไนท์บาซาร์ ถนนช้างคลานลึกราว 1 เมตร และขยายถึงสี่แยกศาลเด็กและสถานีขนส่งเชียงใหม่ เป็นการท่วมตัวเมืองครั้งที่สองในรอบ 10 วัน",
+      "numbers": [
+        "5.30 ม.(รสม.) เมื่อวันที่ 5 ต.ค. 2567 (RID)",
+        "P.1 = 5.30 เมตร (CMU)",
+        "5.25m at 5am",
+        "5.27 (06.00 น.)",
+        "5.28 เมตร (07.00/08.00 น.)",
+        "5.29 เมตร",
+        "5.23 เมตร",
+        "652 ลูกบาศก์เมตรต่อวินาที",
+        "สูงกว่าตลิ่ง 1.58 / เกินระดับวิกฤต 4.20 เมตร 1.08 เมตร",
+        "ไนท์บาซาร์ about a metre",
+        "คาด 6 ต.ค. 5.10 เมตร 01.00-02.00 น."
+      ],
+      "p1_peak_m": 5.3,
+      "p1_peak_date": "2024-10-05",
+      "p1_peak_note": "สูงสุดในตาราง RID",
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy016",
+          "name": "คลองแม่ข่า ต.หายยา อ.เมือง จ.เชียงใหม่",
+          "km": 2.9
+        },
+        {
+          "nickname": "FloodBoy022",
+          "name": "สะพานเม็งรายอนุสรณ์ ต.วัดเกต อ.เมือง จ.เชียงใหม่",
+          "km": 4.5
+        },
+        {
+          "nickname": "FloodBoy017",
+          "name": "ศูนย์ส่งเสริมพฤฒพลังผู้สูงอายุ มหาวิทยาลัยเชียงใหม่ ต.ป่าแดด อ.เมืองเชียงใหม่ จ.เชียงใหม่",
+          "km": 4.7
+        }
+      ],
+      "source_urls": [
+        "http://water.rid.go.th/hyd/WLMax/WL_Max_Ping.pdf",
+        "https://watercenter.scmc.cmu.ac.th/cmflood/flood24",
+        "https://www.thaipbsworld.com/around-thailand/chiang-mai-in-deeper-water-as-ping-river-reaches-record-high-level",
+        "https://www.thaipbs.or.th/news/content/344967",
+        "https://www.thaipbs.or.th/news/content/344983",
+        "https://www.thairath.co.th/news/local/north/2818288",
+        "https://www.naewna.com/local/833521",
+        "https://www.thansettakij.com/news/general-news/608558"
+      ],
+      "sources": [
+        {
+          "name": "กรมชลประทาน (RID) ส่วนอุทกวิทยา",
+          "title": "ระดับน้ำสูงสุดรายปี สถานี P.1 แม่น้ำปิง สะพานนวรัฐ อ.เมือง จ.เชียงใหม่ (ปี พ.ศ. 2532 - 2568)",
+          "url": "http://water.rid.go.th/hyd/WLMax/WL_Max_Ping.pdf",
+          "published": null,
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "ศูนย์วิจัยและบริการจัดการน้ำ มช. (CMU)",
+          "title": "CM Flood Mark 2024 : เครื่องหมายระดับน้ำท่วมเมืองเชียงใหม่ ปี 2567",
+          "url": "https://watercenter.scmc.cmu.ac.th/cmflood/flood24",
+          "published": null,
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Thai PBS World",
+          "title": "Chiang Mai in deeper water as Ping River reaches record high level",
+          "url": "https://www.thaipbsworld.com/around-thailand/chiang-mai-in-deeper-water-as-ping-river-reaches-record-high-level",
+          "published": "2024-10-05",
+          "lang": "en",
+          "verified": true
+        },
+        {
+          "name": "Thai PBS",
+          "title": "นิวไฮ! น้ำปิงขึ้นสูง 5.28 ม.ย่านเศรษฐกิจเชียงใหม่อ่วม",
+          "url": "https://www.thaipbs.or.th/news/content/344967",
+          "published": "2024-10-05",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Thai PBS",
+          "title": "6 ต.ค. \"แม่น้ำปิง\" สูงอีกรอบ \"เชียงใหม่-ลำพูน\" รับมวลน้ำก้อนใหญ่",
+          "url": "https://www.thaipbs.or.th/news/content/344983",
+          "published": "2024-10-05",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "ไทยรัฐ",
+          "title": "เชียงใหม่วิกฤติหนัก ระดับน้ำแม่ปิง \"สะพานนวรัฐ\" เพิ่มสูงสุดในรอบ 50 ปี",
+          "url": "https://www.thairath.co.th/news/local/north/2818288",
+          "published": "2024-10-05",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "แนวหน้า",
+          "title": "เชียงใหม่วิกฤติหนัก! ระดับน้ำแม่ปิง'สะพานนวรัฐ' เพิ่มสูงสุดรอบ 50 ปี ทะลักท่วมย่านการค้าแล้ว",
+          "url": "https://www.naewna.com/local/833521",
+          "published": "2024-10-05",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "ฐานเศรษฐกิจ",
+          "title": "\"น้ำท่วมเชียงใหม่ล่าสุด\" หนักสุดรอบกว่า 10 ปี อัปเดตสถานการณ์",
+          "url": "https://www.thansettakij.com/news/general-news/608558",
+          "published": "2024-10-05",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2024-09-25-chiang-mai-mueang-chiang-mai",
+      "event_date": "2024-09-25/2024-09-26",
+      "event_start": "2024-09-25",
+      "event_end": "2024-09-26",
+      "year": 2024,
+      "historical": true,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Mueang Chiang Mai",
+      "place": "สะพานนวรัฐ (P.1), ไนท์บาซาร์, โรงพยาบาลลานนา, ตลาดวโรรส, กาดหลวง, กาดเมืองใหม่, สถานีรถไฟ",
+      "lat": 18.78749,
+      "lon": 98.96724,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, ประเทศไทย",
+      "type": "river-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "severe",
+      "verified": true,
+      "summary_th": "น้ำปิงที่ P.1 สะพานนวรัฐขึ้นสูงสุด 4.93 เมตร สื่อรายงานว่าสูงกว่าสถิติน้ำท่วมใหญ่ปี 2554 (ระดับ 4.90 ม.) แต่ตารางกรมชลประทานบันทึกปี 2554 ไว้ 4.94 ม. น้ำท่วมย่านเศรษฐกิจ ไนท์บาซาร์ โรงพยาบาลลานนา (ท่วมชั้น 1) และตลาดวโรรสต้องปิด เวลาจุดสูงสุดรายงานไม่ตรงกัน: Thai PBS ระบุ 02.00 น. วันที่ 26 ก.ย. ส่วน JS100 และ Thai PBS World ระบุ 03.00 น. วันที่ 25 ก.ย.",
+      "numbers": [
+        "4.93 เมตร",
+        "4.84 เมตร 08.00 น.",
+        "4.88 เมตร 06.00 น. 26 ก.ย.",
+        "สถิติปี 54 ตามสื่อ: 4.90 ม.",
+        "คาดการณ์ 4.95-5.05 เมตร / 630-650 ลบ.ม./วินาที",
+        "จุดวิกฤต 3.70 เมตร"
+      ],
+      "p1_peak_m": 4.93,
+      "p1_peak_date": "2024-09-25/26",
+      "p1_peak_note": "ตัวเลขจากข่าว (Thai PBS, JS100) เวลาพีคต่างกัน",
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy016",
+          "name": "คลองแม่ข่า ต.หายยา อ.เมือง จ.เชียงใหม่",
+          "km": 2.9
+        },
+        {
+          "nickname": "FloodBoy022",
+          "name": "สะพานเม็งรายอนุสรณ์ ต.วัดเกต อ.เมือง จ.เชียงใหม่",
+          "km": 4.5
+        },
+        {
+          "nickname": "FloodBoy017",
+          "name": "ศูนย์ส่งเสริมพฤฒพลังผู้สูงอายุ มหาวิทยาลัยเชียงใหม่ ต.ป่าแดด อ.เมืองเชียงใหม่ จ.เชียงใหม่",
+          "km": 4.7
+        }
+      ],
+      "source_urls": [
+        "https://www.thaipbs.or.th/news/content/344630",
+        "https://www.js100.com/en/site/news/view/144144",
+        "https://www.thaipbsworld.com/around-thailand/ping-river-water-level-now-reducing-from-record-high",
+        "https://www.posttoday.com/general-news/713786"
+      ],
+      "sources": [
+        {
+          "name": "Thai PBS",
+          "title": "4.93 เมตร \"น้ำปิงสูง\" เกินปี 54 ทุบสถิติ-คาดทรงตัวลดเร็ว",
+          "url": "https://www.thaipbs.or.th/news/content/344630",
+          "published": "2024-09-26",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "JS100",
+          "title": "ระดับน้ำปิง สะพานนวรัฐ ลดลง หลังจากผ่านระดับสูงสุด 4.93 เมตร พื้นที่เศรษฐกิจของเชียงใหม่น้ำท่วมวงกว้าง",
+          "url": "https://www.js100.com/en/site/news/view/144144",
+          "published": "2024-09-26",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Thai PBS World",
+          "title": "Ping River water level now reducing from record high",
+          "url": "https://www.thaipbsworld.com/around-thailand/ping-river-water-level-now-reducing-from-record-high",
+          "published": "2024-09-25",
+          "lang": "en",
+          "verified": true
+        },
+        {
+          "name": "Post Today",
+          "title": "เชียงใหม่ระทึก! ชลประทานที่1คาดระดับน้ำปิงสูงเกิน5ม.ทุบสถิติน้ำท่วม54",
+          "url": "https://www.posttoday.com/general-news/713786",
+          "published": "2024-09-25",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2022-10-03-chiang-mai-mueang-chiang-mai",
+      "event_date": "2022-10-03",
+      "event_start": "2022-10-03",
+      "event_end": "2022-10-03",
+      "year": 2022,
+      "historical": true,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Mueang Chiang Mai",
+      "place": "สะพานนวรัฐ (P.1), ช้างคลาน ถนนเจริญประเทศ, หนองหอย, ช้างเผือก, ชุมชนป่าพร้าวนอก",
+      "lat": 18.78749,
+      "lon": 98.96724,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, ประเทศไทย",
+      "type": "river-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "moderate",
+      "verified": true,
+      "summary_th": "3 ต.ค. 2565 น้ำปิงที่ P.1 สะพานนวรัฐ ขึ้นสูงสุด 4.65 เมตร ปริมาณน้ำ 754.25 ลบ.ม./วินาที เวลา 19.00 น. (กรมชลประทานบันทึกสูงสุดปี 2565 = 4.65 ม. วันที่ 3 ต.ค.) ช่วงเช้าวัดได้ 4.52 เมตร สูงกว่าระดับวิกฤต 0.82 เมตร น้ำท่วมถนนเจริญประเทศ ย่านช้างคลาน 30 ซม. ตำบลหนองหอย 80 ซม. และอุโมงค์ทางลอด ต่ำกว่าสถิติปี 2554 ที่ 4.94 เมตร",
+      "numbers": [
+        "4.65 เมตร / 754.25 ลบ.ม./วินาที (19.00 น. 3 ต.ค. 2565)",
+        "4.52 เมตร สูงกว่าระดับวิกฤต 0.82 เมตร / 697.75 ลบ.ม./วินาที",
+        "4.35 เมตร 06.00 น. / 675.75 ลบ.ม./วินาที",
+        "4.54 เมตร 11.00 น. 4 ต.ค. / 724.00 ลบ.ม./วินาที",
+        "ช้างคลาน 30 ซม.",
+        "หนองหอย 80 ซม.",
+        "718.50 ลบ.ม./วินาที (เทียบ 856 ปี 54)"
+      ],
+      "p1_peak_m": 4.65,
+      "p1_peak_date": "2022-10-03",
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy016",
+          "name": "คลองแม่ข่า ต.หายยา อ.เมือง จ.เชียงใหม่",
+          "km": 2.9
+        },
+        {
+          "nickname": "FloodBoy022",
+          "name": "สะพานเม็งรายอนุสรณ์ ต.วัดเกต อ.เมือง จ.เชียงใหม่",
+          "km": 4.5
+        },
+        {
+          "nickname": "FloodBoy017",
+          "name": "ศูนย์ส่งเสริมพฤฒพลังผู้สูงอายุ มหาวิทยาลัยเชียงใหม่ ต.ป่าแดด อ.เมืองเชียงใหม่ จ.เชียงใหม่",
+          "km": 4.7
+        }
+      ],
+      "source_urls": [
+        "https://www.js100.com/en/site/news/view/122513",
+        "https://www.thaipbs.or.th/news/content/320091",
+        "https://www.nationtv.tv/news/region/378888332",
+        "https://mgronline.com/local/detail/9650000094651",
+        "http://water.rid.go.th/hyd/WLMax/WL_Max_Ping.pdf"
+      ],
+      "sources": [
+        {
+          "name": "JS100",
+          "title": "น้ำปิง ที่บ้านแม่แต อ.สันทราย เชียงใหม่ ต่ำกว่าระดับวิกฤต ส่วนที่ P.1 สะพานนวรัฐ เพิ่มเล็กน้อย",
+          "url": "https://www.js100.com/en/site/news/view/122513",
+          "published": "2022-10-04",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Thai PBS",
+          "title": "\"น้ำปิง\" บ่าเข้าเขตเศรษฐกิจเชียงใหม่ สูงกว่าระดับวิกฤตเกือบ 1 เมตร",
+          "url": "https://www.thaipbs.or.th/news/content/320091",
+          "published": "2022-10-03",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Nation TV",
+          "title": "ด่วน! \"น้ำปิง\" เกินจุดวิกฤต ทะลักท่วม 5 โซนเชียงใหม่",
+          "url": "https://www.nationtv.tv/news/region/378888332",
+          "published": "2022-10-03",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "MGR Online",
+          "title": "แม่น้ำปิงล้นตลิ่งท่วมตัวเมืองเชียงใหม่หลายจุด-ลุ้นหนักไม่รุนแรงเท่าท่วมใหญ่ปี 54",
+          "url": "https://mgronline.com/local/detail/9650000094651",
+          "published": "2022-10-03",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "กรมชลประทาน (RID) ส่วนอุทกวิทยา",
+          "title": "ระดับน้ำสูงสุดรายปี สถานี P.1 แม่น้ำปิง สะพานนวรัฐ อ.เมือง จ.เชียงใหม่ (ปี พ.ศ. 2532 - 2568)",
+          "url": "http://water.rid.go.th/hyd/WLMax/WL_Max_Ping.pdf",
+          "published": null,
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2011-09-29-chiang-mai-mueang-chiang-mai",
+      "event_date": "2011-09-29",
+      "event_start": "2011-09-29",
+      "event_end": "2011-09-29",
+      "year": 2011,
+      "historical": true,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Mueang Chiang Mai",
+      "place": "สะพานนวรัฐ (P.1), ตลาดวโรรส, ตลาดต้นลำไย, ตลาดเมืองใหม่",
+      "lat": 18.78749,
+      "lon": 98.96724,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, ประเทศไทย",
+      "type": "river-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "severe",
+      "verified": true,
+      "summary_th": "29 ก.ย. 2554 ระดับน้ำปิงที่ P.1 สะพานนวรัฐขึ้นสูงสุด 4.94 เมตร (856 ลบ.ม./วินาที) ก่อนลดเหลือ 4.93 เมตร ปริมาณน้ำ 851 ลบ.ม./วินาที เวลา 07.00 น. น้ำทะลักท่วมตลาดวโรรส ตลาดต้นลำไย และตลาดเมืองใหม่ กรมชลประทานบันทึกระดับสูงสุดปี 2554 ที่ 4.94 ม.(รสม.) วันที่ 29 ก.ย. ขณะที่สื่อหลายแห่งในปี 2567 อ้างสถิติปี 54 เป็น 4.90 เมตร",
+      "numbers": [
+        "4.94 เมตร / 856 ลบ.ม./วินาที",
+        "4.93 เมตร ปริมาณน้ำไหล 851 ลูกบาศก์เมตร/วินาที (07.00 น.)",
+        "RID: 2554 = 4.94 ม.(รสม.) 29 ก.ย.",
+        "สื่อปี 2567 อ้าง: ระดับน้ำสูง 4.90 ม."
+      ],
+      "p1_peak_m": 4.94,
+      "p1_peak_date": "2011-09-29",
+      "p1_peak_note": "ข่าวปี 2567 อ้างสถิติปี 2554 เป็น 4.90 ม.",
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy016",
+          "name": "คลองแม่ข่า ต.หายยา อ.เมือง จ.เชียงใหม่",
+          "km": 2.9
+        },
+        {
+          "nickname": "FloodBoy022",
+          "name": "สะพานเม็งรายอนุสรณ์ ต.วัดเกต อ.เมือง จ.เชียงใหม่",
+          "km": 4.5
+        },
+        {
+          "nickname": "FloodBoy017",
+          "name": "ศูนย์ส่งเสริมพฤฒพลังผู้สูงอายุ มหาวิทยาลัยเชียงใหม่ ต.ป่าแดด อ.เมืองเชียงใหม่ จ.เชียงใหม่",
+          "km": 4.7
+        }
+      ],
+      "source_urls": [
+        "https://www.komchadluek.net/news/110453",
+        "http://water.rid.go.th/hyd/WLMax/WL_Max_Ping.pdf",
+        "https://mgronline.com/local/detail/9650000094651"
+      ],
+      "sources": [
+        {
+          "name": "คมชัดลึก",
+          "title": "'น้ำปิง'ทะลักท่วมย่านการค้าสำคัญ",
+          "url": "https://www.komchadluek.net/news/110453",
+          "published": "2011-09-29",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "กรมชลประทาน (RID) ส่วนอุทกวิทยา",
+          "title": "ระดับน้ำสูงสุดรายปี สถานี P.1 แม่น้ำปิง สะพานนวรัฐ อ.เมือง จ.เชียงใหม่ (ปี พ.ศ. 2532 - 2568)",
+          "url": "http://water.rid.go.th/hyd/WLMax/WL_Max_Ping.pdf",
+          "published": null,
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "MGR Online",
+          "title": "แม่น้ำปิงล้นตลิ่งท่วมตัวเมืองเชียงใหม่หลายจุด-ลุ้นหนักไม่รุนแรงเท่าท่วมใหญ่ปี 54",
+          "url": "https://mgronline.com/local/detail/9650000094651",
+          "published": "2022-10-03",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2011-09-28-chiang-mai-mueang-chiang-mai",
+      "event_date": "2011-09-28/2011-09-29",
+      "event_start": "2011-09-28",
+      "event_end": "2011-09-29",
+      "year": 2011,
+      "historical": true,
+      "scope": "chiang-mai",
+      "region": "north",
+      "province": "Chiang Mai",
+      "provinces": [
+        "Chiang Mai"
+      ],
+      "district": "Mueang Chiang Mai",
+      "place": "สะพานนวรัฐ (P.1), ไนท์บาซาร์, ถนนช้างคลาน, ถนนเจริญประเทศ, ชุมชนป่าพร้าวนอก",
+      "lat": 18.78749,
+      "lon": 98.96724,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, ประเทศไทย",
+      "type": "river-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "severe",
+      "verified": true,
+      "summary_th": "28 ก.ย. 2554 เวลา 13.00 น. ระดับน้ำปิงที่จุด P.1 สะพานนวรัฐ สูงกว่า 4.40 เมตร ปริมาณน้ำ 614 ลบ.ม./วินาที เกินจุดวิกฤต 3.70 เมตร น้ำทะลักท่วมถนนเชียงใหม่-ลำพูน ชุมชนป่าพร้าวนอก ถนนช้างคลาน และถนนเจริญประเทศ ย่านไนท์บาซาร์ระดับน้ำสูงกว่า 1 เมตร ความเสียหายทางการค้าไม่ต่ำกว่า 100 ล้านบาท",
+      "numbers": [
+        "สูงกว่า 4.40 เมตร",
+        "614 ลบ.ม./วินาที",
+        "จุดวิกฤต 3.70 เมตร",
+        "คาด 4.90 เมตร เที่ยงคืนวันที่ 28 ก.ย.",
+        "ไนท์บาซาร์ ระดับน้ำสูงกว่า 1 เมตร",
+        "ไม่ต่ำกว่า 100 ล้านบาท"
+      ],
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy016",
+          "name": "คลองแม่ข่า ต.หายยา อ.เมือง จ.เชียงใหม่",
+          "km": 2.9
+        },
+        {
+          "nickname": "FloodBoy022",
+          "name": "สะพานเม็งรายอนุสรณ์ ต.วัดเกต อ.เมือง จ.เชียงใหม่",
+          "km": 4.5
+        },
+        {
+          "nickname": "FloodBoy017",
+          "name": "ศูนย์ส่งเสริมพฤฒพลังผู้สูงอายุ มหาวิทยาลัยเชียงใหม่ ต.ป่าแดด อ.เมืองเชียงใหม่ จ.เชียงใหม่",
+          "km": 4.7
+        }
+      ],
+      "source_urls": [
+        "https://www.komchadluek.net/news/110362",
+        "https://www.komchadluek.net/news/110428"
+      ],
+      "sources": [
+        {
+          "name": "คมชัดลึก",
+          "title": "ทะลักท่วมเมืองเชียงใหม่หลายจุด",
+          "url": "https://www.komchadluek.net/news/110362",
+          "published": "2011-09-28",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "คมชัดลึก",
+          "title": "เชียงใหม่วิกฤติท่วมไนท์บาซาร์1ม.",
+          "url": "https://www.komchadluek.net/news/110428",
+          "published": "2011-09-28",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-10-06-chiang-rai-wiang-pa-pao",
+      "event_date": "2026-10-06",
+      "event_start": "2026-10-06",
+      "event_end": "2026-10-06",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "north",
+      "province": "Chiang Rai",
+      "provinces": [
+        "Chiang Rai"
+      ],
+      "district": "Wiang Pa Pao",
+      "place": "ป่างิ้ว อ่างเก็บน้ำแม่ฉางข้าว",
+      "lat": 19.27186,
+      "lon": 99.45075,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอเวียงป่าเป้า, จังหวัดเชียงราย, 57260, ประเทศไทย",
+      "type": "warning",
+      "kind": "warning",
+      "phase": "before",
+      "severity": "warning",
+      "verified": true,
+      "summary_th": "ทางการออกประกาศเตือนภัยน้ำท่วมวิกฤตสำหรับชาวบ้านพื้นที่ป่างิ้ว อ.เวียงป่าเป้า หลังระดับน้ำในอ่างเก็บน้ำแม่ฉางข้าวสูงเกินทางระบายน้ำล้นหลัก เสี่ยงต่อบ้านริมตลิ่ง ฝนยังตกในพื้นที่ต้นน้ำ",
+      "numbers": [],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.chiangraitimes.com/chiang-rai/chiang-rai-flood-warning-issued/"
+      ],
+      "sources": [
+        {
+          "name": "Chiang Rai Times",
+          "title": "Flood Warning Issued for Wiang Pa Pao District Chiang Rai",
+          "url": "https://www.chiangraitimes.com/chiang-rai/chiang-rai-flood-warning-issued/",
+          "published": "2026-10-06",
+          "lang": "en",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-10-06-multiple-warning",
+      "event_date": "2026-10-06/2026-10-07",
+      "event_start": "2026-10-06",
+      "event_end": "2026-10-07",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "national",
+      "province": "Multiple",
+      "provinces": [
+        "Mae Hong Son",
+        "Chiang Mai",
+        "Chiang Rai",
+        "Lamphun",
+        "Phayao",
+        "Nan",
+        "Phrae",
+        "Sukhothai",
+        "Tak",
+        "Kamphaeng Phet",
+        "Phitsanulok",
+        "Phichit"
+      ],
+      "district": "",
+      "place": null,
+      "lat": null,
+      "lon": null,
+      "province_text": "Mae Hong Son, Chiang Mai, Chiang Rai, Lamphun, Phayao, Nan, Phrae, Sukhothai, Tak, Kamphaeng Phet, Phitsanulok, Phichit + Central, East, South (44 provinces incl. Bangkok)",
+      "type": "warning",
+      "kind": "warning",
+      "phase": "before",
+      "severity": "warning",
+      "verified": true,
+      "summary_th": "กรมอุตุนิยมวิทยาออกประกาศฉบับที่ 10 เตือน 44 จังหวัดรวมกรุงเทพฯ 6-7 ต.ค. 69 ฝนฟ้าคะนอง ลมกระโชกแรง ลูกเห็บตก กรุงเทพฯ และปริมณฑลฝนฟ้าคะนองร้อยละ 70 ของพื้นที่",
+      "numbers": [
+        "44 จว.",
+        "ประกาศฉบับที่ 10",
+        "ฝนฟ้าคะนอง ร้อยละ 70 ของพื้นที่"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://thansettakij.com/general-news/670749"
+      ],
+      "sources": [
+        {
+          "name": "Thansettakij",
+          "title": "กรมอุตุฯเตือนภัย 44 จว.รวมกทม.วันนี้ 6 ต.ค.69 ฝนถล่ม-ลมกระโชกแรง",
+          "url": "https://thansettakij.com/general-news/670749",
+          "published": "2026-10-06",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-10-05-multiple-warning",
+      "event_date": "2026-10-05/2026-10-10",
+      "event_start": "2026-10-05",
+      "event_end": "2026-10-10",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "national",
+      "province": "Multiple",
+      "provinces": [
+        "Mae Hong Son",
+        "Chiang Mai",
+        "Chiang Rai",
+        "Lamphun",
+        "Lampang",
+        "Tak",
+        "Kamphaeng Phet",
+        "Ranong",
+        "Phang Nga",
+        "Phuket",
+        "Trang",
+        "Satun",
+        "Prachuap Khiri Khan",
+        "Chumphon",
+        "Surat Thani",
+        "Nakhon Si Thammarat",
+        "Songkhla",
+        "Pattani",
+        "Yala",
+        "Narathiwat"
+      ],
+      "district": "",
+      "place": null,
+      "lat": null,
+      "lon": null,
+      "province_text": "Mae Hong Son, Chiang Mai, Chiang Rai, Lamphun, Lampang, Tak, Kamphaeng Phet, Ranong, Phang Nga, Phuket, Trang, Satun, Prachuap Khiri Khan, Chumphon, Surat Thani, Nakhon Si Thammarat, Songkhla, Pattani, Yala, Narathiwat",
+      "type": "warning",
+      "kind": "warning",
+      "phase": "before",
+      "severity": "warning",
+      "verified": true,
+      "summary_th": "กรมอุตุนิยมวิทยาเตือนฝนตกหนักระลอกใหม่ 5-10 ต.ค. 2569 ภาคเหนือและภาคใต้ฝนร้อยละ 60 ของพื้นที่ เสี่ยงน้ำท่วมฉับพลัน น้ำล้นตลิ่ง ดินโคลนถล่ม คลื่นสูงกว่า 2 เมตร",
+      "numbers": [
+        "October 5-10, 2026",
+        "Northern: 60% coverage",
+        "Southern: 60%",
+        "exceed 2 metres (waves)"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.nationthailand.com/news/general/40071670"
+      ],
+      "sources": [
+        {
+          "name": "The Nation",
+          "title": "Thai Met Dept Issues Flood Warnings Ahead of New October Downpours",
+          "url": "https://www.nationthailand.com/news/general/40071670",
+          "published": "2026-09-29",
+          "lang": "en",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-10-05-multiple-chiang-rai-mueang-wiang-kaen-chiang-khong-wiang-pa-pao-wiang-chai-lamphun-ban-hong-ban-thi-nan-thung-chang-pua-chiang-klang-wiang-sa-phayao-pong-chiang-kham",
+      "event_date": "2026-10-05/2026-10-07",
+      "event_start": "2026-10-05",
+      "event_end": "2026-10-07",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "national",
+      "province": "Multiple",
+      "provinces": [
+        "Chiang Mai",
+        "Chiang Rai",
+        "Lamphun",
+        "Lampang",
+        "Phayao",
+        "Nan",
+        "Kamphaeng Phet",
+        "Phitsanulok",
+        "Phichit",
+        "Phetchabun",
+        "Nakhon Sawan",
+        "Uthai Thani",
+        "Chai Nat",
+        "Sing Buri",
+        "Ang Thong",
+        "Phra Nakhon Si Ayutthaya",
+        "Bangkok",
+        "Yala",
+        "Pattani",
+        "Narathiwat"
+      ],
+      "district": "Chiang Rai: Mueang, Wiang Kaen, Chiang Khong, Wiang Pa Pao, Wiang Chai; Lamphun: Ban Hong, Ban Thi; Nan: Thung Chang, Pua, Chiang Klang, Wiang Sa; Phayao: Pong, Chiang Kham",
+      "place": null,
+      "lat": null,
+      "lon": null,
+      "province_text": "Chiang Mai, Chiang Rai, Lamphun, Lampang, Phayao, Nan, Kamphaeng Phet, Phitsanulok, Phichit, Phetchabun, Nakhon Sawan, Uthai Thani, Chai Nat, Sing Buri, Ang Thong, Ayutthaya, Bangkok, Yala, Pattani, Narathiwat (+ East/West/South)",
+      "type": "warning",
+      "kind": "warning",
+      "phase": "before",
+      "severity": "warning",
+      "verified": true,
+      "summary_th": "สทนช.ออกประกาศฉบับที่ 9/2569 เตือนน้ำท่วมขัง น้ำท่วมฉับพลัน น้ำป่า ดินโคลนถล่ม และน้ำล้นตลิ่ง 5-7 ต.ค. 69 ระบุพื้นที่เสี่ยงเชียงราย (อ.เมืองเชียงราย เวียงแก่น เชียงของ เวียงป่าเป้า เวียงชัย) ลำพูน (บ้านโฮ่ง บ้านธิ) น่าน (ทุ่งช้าง ปัว เชียงกลาง เวียงสา) พะเยา (ปง เชียงคำ) อ่างหนองปลาไหลมีน้ำ 103% ประแสร์ 100% บางพระ 82% เขื่อนเจ้าพระยาระบาย 2,500 ลบ.ม./วินาที",
+      "numbers": [
+        "ฉบับที่ 9/2569",
+        "15 สาย",
+        "14 จังหวัด",
+        "อ่างหนองปลาไหลมีน้ำ 103% ประแสร์ 100% และบางพระ 82%",
+        "2,500 ลูกบาศก์เมตรต่อวินาที"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://posttoday.com/general-news/749896",
+        "https://www.thaipbs.or.th/news/content/559107",
+        "https://aec10news.com/contents/news/national/300212",
+        "https://www.bangkokbiznews.com/news/news-update/1255127"
+      ],
+      "sources": [
+        {
+          "name": "Post Today",
+          "title": "สทนช.เตือนน้ำท่วม 5–7 ต.ค.69 อ่างหนองปลาไหลมีปริมาณน้ำ 103%",
+          "url": "https://posttoday.com/general-news/749896",
+          "published": "2026-10-05",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Thai PBS",
+          "title": "สทนช.เตือนหลายพื้นที่ 5–7 ต.ค. เฝ้าระวังน้ำท่วมฉับพลัน น้ำป่าไหลหลาก ดินโคลนถล่ม",
+          "url": "https://www.thaipbs.or.th/news/content/559107",
+          "published": "2026-10-03",
+          "lang": "th",
+          "verified": true,
+          "note": "page shows 3 ต.ค. 69"
+        },
+        {
+          "name": "AEC10NEWS",
+          "title": "สทนช. เตือนฉบับ 9 แม่น้ำ 15 สายล้นตลิ่ง 14 จังหวัด น้ำท่วมฉับพลัน ช่วงวันที่ 5-7 ต.ค. 69",
+          "url": "https://aec10news.com/contents/news/national/300212",
+          "published": "2026-10-05",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Krungthep Turakij",
+          "title": "จับตา 3 เขื่อนหลัก EEC น้ำเกินความจุ! เฝ้าระวังฝนระลอกใหม่ 5-7 ต.ค.",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1255127",
+          "published": "2026-10-06",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-10-05-bangkok-still-flooded-lampang-nakhon-sawan-pathum-thani-samut-prakan-ayutthaya-suphan-buri-chachoengsao-chon-buri-chaiyaphum-buriram-surin",
+      "event_date": "2026-10-05",
+      "event_start": "2026-10-05",
+      "event_end": "2026-10-05",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "national",
+      "province": "Multiple",
+      "provinces": [
+        "Bangkok"
+      ],
+      "district": "Still flooded: Lampang, Nakhon Sawan, Pathum Thani, Samut Prakan, Ayutthaya, Suphan Buri, ... Chachoengsao, Chon Buri, Chaiyaphum, Buriram, Surin",
+      "place": null,
+      "lat": null,
+      "lon": null,
+      "province_text": "26 provinces + Bangkok",
+      "type": "summary",
+      "kind": "news",
+      "phase": "during",
+      "severity": "severe",
+      "verified": true,
+      "summary_th": "ปภ.รายงาน 5 ต.ค. ยังมีน้ำท่วม 26 จังหวัดและกรุงเทพฯ 140 อำเภอ 1,154 ตำบล 8,325 หมู่บ้าน 1,270,151 ครัวเรือน 3,519,416 คน เสียชีวิต 25 ราย ภาคเหนือเหลือลำปางและนครสวรรค์ AHA Centre สรุปสะสมตั้งแต่ 16 ก.ย. 47 จังหวัดและกรุงเทพฯ 1.46 ล้านครัวเรือน (4.1 ล้านคน) เสียชีวิต 31 ราย",
+      "numbers": [
+        "26 provinces",
+        "140 districts",
+        "1,154 subdistricts",
+        "8,325 villages",
+        "1,270,151 households",
+        "3,519,416 people",
+        "25 deaths",
+        "47 provinces and Bangkok since 16 Sep",
+        "1.46 million households (4.1 million people)",
+        "31 fatalities"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.bangkokbiznews.com/news/news-update/1255061",
+        "https://ahacentre.org/weekly-disaster-update/weekly-disaster-update-28-september-4-october-2026/"
+      ],
+      "sources": [
+        {
+          "name": "Krungthep Turakij",
+          "title": "วิกฤตน้ำท่วมปี 69 ปภ. เผย 26 จังหวัดจมบาดาล เดือดร้อนกว่า 3.5 ล้านคน",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1255061",
+          "published": "2026-10-06",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "AHA Centre",
+          "title": "WEEKLY DISASTER UPDATE 28 September - 4 October 2026",
+          "url": "https://ahacentre.org/weekly-disaster-update/weekly-disaster-update-28-september-4-october-2026/",
+          "published": null,
+          "lang": "en",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-10-05-multiple-summary",
+      "event_date": "2026-10-05",
+      "event_start": "2026-10-05",
+      "event_end": "2026-10-05",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "national",
+      "province": "Multiple",
+      "provinces": [],
+      "district": "",
+      "place": null,
+      "lat": null,
+      "lon": null,
+      "province_text": "43 provinces (agriculture)",
+      "type": "summary",
+      "kind": "news",
+      "phase": "during",
+      "severity": "severe",
+      "verified": true,
+      "summary_th": "กระทรวงเกษตรฯ สรุปความเสียหายภาคเกษตรจากน้ำท่วม 43 จังหวัด เกษตรกร 146,137 ครัวเรือน พื้นที่เสียหาย 1,661,685.12 ไร่ (ข้าว 1,331,794.63 ไร่) ประมง 35 จังหวัด 286,477,444 บาท ปศุสัตว์ 29 จังหวัด สัตว์ตาย/สูญหาย 4,412,656 ตัว ดินโคลนถล่ม 5 จังหวัด 516 ไร่ 3,612,858 บาท",
+      "numbers": [
+        "43 provinces",
+        "146,137 households",
+        "1,661,685.12 ไร่",
+        "Rice: 1,331,794.63 ไร่",
+        "Field crops/vegetables: 246,434.95 ไร่",
+        "Fruit and perennial trees: 96,442.04 ไร่",
+        "Fisheries: 35 provinces, 9,652 farmers, 69,393 ไร่, 286,477,444 บาท",
+        "Livestock: 29 provinces, 22,734 farmers, 14,272,781 animals, 4,412,656 dead or missing",
+        "Mudslide: 5 provinces, 623 farmers, 516 ไร่, 3,612,858 บาท"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://thansettakij.com/economy/trade-agriculture/670738"
+      ],
+      "sources": [
+        {
+          "name": "Thansettakij",
+          "title": "'ปลัดเกษตรฯ' สั่งการด่วนเร่งเยียวยา–ส่งเครื่องจักร ช่วยเกษตรกร น้ำท่วม",
+          "url": "https://thansettakij.com/economy/trade-agriculture/670738",
+          "published": "2026-10-05",
+          "lang": "th",
+          "verified": true,
+          "note": "mudslide provinces per search snippet: เชียงใหม่ น่าน พะเยา แม่ฮ่องสอน เลย — not confirmed in fetched text"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-05-lamphun-ban-hong",
+      "event_date": "2026-10-05",
+      "event_start": "2026-10-05",
+      "event_end": "2026-10-05",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "north",
+      "province": "Lamphun",
+      "provinces": [
+        "Lamphun"
+      ],
+      "district": "Ban Hong",
+      "place": "ต.ป่าพลู: บ้านห้วยหละ, บ้านใหม่พัฒนา, บ้านใหม่ศรีบุญเรือง",
+      "lat": 18.27068,
+      "lon": 98.81854,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอบ้านโฮ่ง, จังหวัดลำพูน, 51130, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "severe",
+      "verified": false,
+      "summary_th": "เมื่อวันที่ 5 ตุลาคม 2569 เวลาประมาณ 17:30 น. น้ำป่าไหลหลากเข้าท่วม 3 หมู่บ้านใน ต.ป่าพลู อ.บ้านโฮ่ง จ.ลำพูน บ้านเรือนเสียหาย \"เกินกว่า 200 หลังคาเรือน\" น้ำพัดพากิ่งไม้ ท่อนไม้ และโคลนปิดเส้นทาง นายอำเภอบ้านโฮ่งนำทีมลงพื้นที่ช่วยเหลือ ไม่มีรายงานผู้บาดเจ็บหรือเสียชีวิตในข่าว",
+      "numbers": [
+        "เกินกว่า 200 หลังคาเรือน (เชียงใหม่นิวส์)",
+        "กว่า 200 หลังคาเรือน (สยามรัฐ)",
+        "5 ตุลาคม 2569 เวลาประมาณ 17:30 นาฬิกา"
+      ],
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy049",
+          "name": "สะพานแม่ขนาด น้ำแม่ทา ต.ทากาศ อ.แม่ทา จ.ลำพูน",
+          "km": 23.1
+        },
+        {
+          "nickname": "FloodBoy047",
+          "name": "สะพานแม่สะป้วด น้ำทา ต.ทาสบเส้า อ.แม่ทา จ.ลำพูน",
+          "km": 33.4
+        },
+        {
+          "nickname": "FloodBoy046",
+          "name": "สะพานแม่แสม น้ำลี้ ต.ตะเคียนปม อ.ทุ่งหัวช้าง จ.ลำพูน",
+          "km": 34.4
+        }
+      ],
+      "source_urls": [
+        "https://www.chiangmainews.co.th/social/4170674/",
+        "https://siamrath.co.th/regional/326663",
+        "https://www.matichon.co.th/region/news_5920447"
+      ],
+      "sources": [
+        {
+          "name": "เชียงใหม่นิวส์",
+          "title": "นอ.บ้านโฮ่ง นำทีมลงพื้นที่ช่วยเหลือชาวบ้านด่วน หลังน้ำป่าไหลหลากทะลักท่วม 3 หมู่บ้าน",
+          "url": "https://www.chiangmainews.co.th/social/4170674/",
+          "published": "2026-10-06",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "สยามรัฐ",
+          "title": "น้ำป่าทะลักท่วมบ้านโฮ่ง ลำพูน 3 หมู่บ้านอ่วม เดือดร้อนกว่า 200 หลังคาเรือน - สยามรัฐ",
+          "url": "https://siamrath.co.th/regional/326663",
+          "published": "2026-10-05",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Matichon Online",
+          "title": "น้ำป่า ไหลทะลักท่วม บ้านโฮ่ง ลำพูน เดือดร้อนแล้ว 200 หลังคาเรือน เร่งช่วยเหลือชาวบ้าน",
+          "url": "https://www.matichon.co.th/region/news_5920447",
+          "published": "2026-10-05",
+          "lang": "th",
+          "verified": false
+        }
+      ],
+      "note": "Matichon ดึงไม่ได้ (HTTP 403) — หัวข้อจากผลค้นหาเท่านั้น"
+    },
+    {
+      "id": "2026-10-04-lampang-thoen",
+      "event_date": "2026-10-04",
+      "event_start": "2026-10-04",
+      "event_end": "2026-10-04",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "north",
+      "province": "Lampang",
+      "provinces": [
+        "Lampang"
+      ],
+      "district": "Thoen",
+      "place": "ม.7 บ้านแม่ปะดอย ต.แม่ปะ; บ้านแม่ปะหลวง ลำห้วยแม่ปะ",
+      "lat": 17.62565,
+      "lon": 99.23276,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอเถิน, จังหวัดลำปาง, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "minor",
+      "verified": true,
+      "summary_th": "กลางดึก 4 ต.ค. ฝนตกหนักทำให้น้ำป่าจากดอยแม่ปะและอุทยานฯ เวียงโกศัยไหลลงลำห้วยแม่ปะ ท่วมบ้านเรือน ม.7 ต.แม่ปะ อ.เถิน ราว 15 หลังคาเรือน น้ำสูงเกือบ 1 เมตร",
+      "numbers": [
+        "เกือบ 1 เมตร",
+        "approximately 15 household structures"
+      ],
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy045",
+          "name": "ฝายเด่นดู่ น้ำลี้ ต.ดงดำ อ.ลี้ จ.ลำพูน",
+          "km": 25.3
+        },
+        {
+          "nickname": "FloodBoy048",
+          "name": "ฝายน้ำล้นแม่แต๊ะผาแล ต.นาทราย อ.ลี้ จ.ลำพูน",
+          "km": 30.7
+        }
+      ],
+      "source_urls": [
+        "https://siamrath.co.th/regional/326464"
+      ],
+      "sources": [
+        {
+          "name": "Siam Rath",
+          "title": "ลำปางน้ำป่าดอยแม่ปะ–เวียงโกศัยทะลักท่วมบ้านแม่ปะหลวง น้ำสูงเกือบ 1 เมตร",
+          "url": "https://siamrath.co.th/regional/326464",
+          "published": "2026-10-05",
+          "lang": "th",
+          "verified": true,
+          "note": "fetch tool mislabeled province as Lamphun; headline says ลำปาง and Thoen is in Lampang"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-yala-mueang-yala",
+      "event_date": "2026-10-02/2026-10-17",
+      "event_start": "2026-10-02",
+      "event_end": "2026-10-17",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "south",
+      "province": "Yala",
+      "provinces": [
+        "Yala"
+      ],
+      "district": "Mueang Yala",
+      "place": "ต.หน้าถ้ำ คลองวัดถ้ำ ท่าสาป ยุโป ตาเซะ แม่น้ำปัตตานี",
+      "lat": 6.56401,
+      "lon": 101.2315,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอเมืองยะลา, จังหวัดยะลา, 95000, ประเทศไทย",
+      "type": "warning",
+      "kind": "warning",
+      "phase": "before",
+      "severity": "warning",
+      "verified": true,
+      "summary_th": "ยะลาเร่งขุดลอกคูคลองเปิดทางน้ำเก่าจากยะหาผ่าน ต.หน้าถ้ำ ท่าสาป ยุโป ตาเซะ ลงแม่น้ำปัตตานี เพื่อลดเวลาน้ำท่วมจาก 3–4 วันเหลือ 1–2 วัน ติดหวูดไซเรน 30 จุด Line OA แจ้งเตือน 10,000 ครัวเรือน รับมือร่องมรสุม 11-17 ต.ค. 2569 ชาวบ้าน ต.หน้าถ้ำเคยเจอน้ำท่วมสูงกว่า 2 เมตร นาน 2-3 วัน",
+      "numbers": [
+        "3–4 วัน",
+        "1–2 วัน",
+        "30 จุด",
+        "10,000 ครัวเรือน",
+        "กว่า 20 หน่วยงาน",
+        "2,400 มิลลิเมตรต่อปี",
+        "800 มิลลิเมตร",
+        "1,600 มิลลิเมตร",
+        "11-17 ตุลาคม 2569",
+        "น้ำท่วมสูงกว่า 2 เมตร นาน 2-3 วัน"
+      ],
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy003",
+          "name": "ชุมชนตลาดเก่า เทศบาลเมืองยะลา อ.เมือง จ.ยะลา",
+          "km": 6.6
+        }
+      ],
+      "source_urls": [
+        "https://77kaoded.news/02/10/2026/disaster/idongphoto/74547/",
+        "https://dailynews.co.th/news/6251440"
+      ],
+      "sources": [
+        {
+          "name": "77 Kaoded",
+          "title": "ยะลาผนึกกำลัง 3 ผู้นำท้องถิ่น เร่งแก้ปัญหาน้ำท่วมซ้ำซาก ลุยเปิดทางน้ำเก่า-ติดตั้งหวูดเตือนภัย",
+          "url": "https://77kaoded.news/02/10/2026/disaster/idongphoto/74547/",
+          "published": "2026-10-02",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Daily News",
+          "title": "ยะลายกระดับรับมืออุทกภัย! ขุดลอกคลองเปิดทางน้ำรับมรสุม เตือนฝนตกหนัก 11–17 ต.ค.นี้",
+          "url": "https://dailynews.co.th/news/6251440",
+          "published": "2026-10-06",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-10-02-bangkok-summary",
+      "event_date": "2026-10-02",
+      "event_start": "2026-10-02",
+      "event_end": "2026-10-02",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "national",
+      "province": "Multiple",
+      "provinces": [
+        "Bangkok"
+      ],
+      "district": "",
+      "place": null,
+      "lat": null,
+      "lon": null,
+      "province_text": "31 provinces + Bangkok",
+      "type": "summary",
+      "kind": "news",
+      "phase": "during",
+      "severity": "severe",
+      "verified": true,
+      "summary_th": "ปภ.รายงาน 2 ต.ค. 2569 06.00 น. น้ำท่วม 31 จังหวัด กระทบ 1,245,581 ครัวเรือน 3,535,206 คน เสียชีวิต 23 ราย (Chiang Rai Times รายงาน 24 ราย) กรุงเทพฯ 329,000 ครัวเรือน สมุทรปราการ 307,704 ครัวเรือน",
+      "numbers": [
+        "31 provinces",
+        "1,245,581 households and 3,535,206 people",
+        "23 deaths",
+        "Death toll: 24 confirmed fatalities (Chiang Rai Times)",
+        "Bangkok 329,000",
+        "Samut Prakan 307,704",
+        "Ayutthaya 44,865",
+        "Nakhon Sawan 11,928",
+        "Chachoengsao 47,959",
+        "Nakhon Nayok 49,018"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.thaipbs.or.th/news/content/559011",
+        "https://www.chiangraitimes.com/thailand-news/thailand-floods-death-toll/"
+      ],
+      "sources": [
+        {
+          "name": "Thai PBS",
+          "title": "ปภ.รายงานน้ำท่วม 31 จังหวัด เร่งระบายน้ำ–พร้อมฟื้นฟูพื้นที่คลี่คลาย",
+          "url": "https://www.thaipbs.or.th/news/content/559011",
+          "published": "2026-10-02",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Chiang Rai Times",
+          "title": "Thailand Floods: Death Toll Hits 24 Across 31 Provinces",
+          "url": "https://www.chiangraitimes.com/thailand-news/thailand-floods-death-toll/",
+          "published": "2026-10-02",
+          "lang": "en",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-10-01-prachinburi-7-districts-incl-mueang-prachin-buri-ban-sang-kabin-buri-si-maha-phot",
+      "event_date": "2026-10-01/2026-10-05",
+      "event_start": "2026-10-01",
+      "event_end": "2026-10-05",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "east",
+      "province": "Prachinburi",
+      "provinces": [
+        "Prachinburi"
+      ],
+      "district": "7 districts incl. Mueang Prachin Buri, Ban Sang, Kabin Buri, Si Maha Phot",
+      "place": "อ.บ้านสร้าง; ฟาร์มสุกร อ.เมืองปราจีนบุรี",
+      "lat": 14.15421,
+      "lon": 101.55478,
+      "latlon_source": "nominatim (approx, province centroid): จังหวัดปราจีนบุรี, ประเทศไทย",
+      "province_text": "Prachin Buri",
+      "type": "river-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "severe",
+      "verified": false,
+      "summary_th": "ปราจีนบุรีน้ำท่วม 7 อำเภอ 65 ตำบล 691 หมู่บ้าน 37 ชุมชน กระทบ 55,286 ครัวเรือน เสียชีวิต 9 ราย นายกฯ ลงพื้นที่ ศูนย์พักพิง 2 แห่งรองรับ 433 คน วันที่ 5 ต.ค. ฟาร์มหมูใน อ.เมืองถูกน้ำท่วม สุกรตายราว 2,000 ตัว",
+      "numbers": [
+        "7 อำเภอ",
+        "65 subdistricts, 691 villages, 37 communities",
+        "55,286 households",
+        "Deaths: 9 people",
+        "433 displaced persons",
+        "ตายกว่า 2,000 ตัว"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.thaipbs.or.th/news/content/559142",
+        "https://www.thaipbs.or.th/news/content/559178",
+        "https://www.matichon.co.th/region/news_5917140"
+      ],
+      "sources": [
+        {
+          "name": "Thai PBS",
+          "title": "ปราจีนบุรีน้ำท่วม 7 อำเภอ กระทบกว่า 5.5 หมื่นครัวเรือน นายกฯ ลงพื้นที่",
+          "url": "https://www.thaipbs.or.th/news/content/559142",
+          "published": "2026-10-04",
+          "lang": "th",
+          "verified": true,
+          "note": "fetch tool mis-rendered province name as 'Prachuap'; headline is ปราจีนบุรี; district names in tool output were garbled"
+        },
+        {
+          "name": "Thai PBS",
+          "title": "ปราจีนฯ น้ำท่วมฟาร์มหมู ตายกว่า 2,000 ตัว ปศุสัตว์เร่งจัดการซาก",
+          "url": "https://www.thaipbs.or.th/news/content/559178",
+          "published": "2026-10-05",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Matichon",
+          "title": "น้ำท่วมปราจีนบุรีเสียชีวิตแล้ว 7 ราย กระทบ 4.6 หมื่นครัวเรือน ‘บ้านสร้าง’ ยังวิกฤต น้ำท่วมทุกตำบล",
+          "url": "https://www.matichon.co.th/region/news_5917140",
+          "published": null,
+          "lang": "th",
+          "verified": false,
+          "note": "fetch HTTP 403; title from search only"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-30-multiple-ban-tak-mae-sot-bang-rakam",
+      "event_date": "2026-09-30",
+      "event_start": "2026-09-30",
+      "event_end": "2026-09-30",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "north",
+      "province": "Multiple",
+      "provinces": [
+        "Tak",
+        "Phitsanulok",
+        "Phetchabun",
+        "Kamphaeng Phet",
+        "Nakhon Sawan"
+      ],
+      "district": "Ban Tak; Mae Sot; Bang Rakam",
+      "place": null,
+      "lat": null,
+      "lon": null,
+      "province_text": "Tak, Phitsanulok, Phetchabun, Kamphaeng Phet, Nakhon Sawan",
+      "type": "summary",
+      "kind": "news",
+      "phase": "during",
+      "severity": "moderate",
+      "verified": true,
+      "summary_th": "ปภ.รายงาน 30 ก.ย. จังหวัดภาคเหนือตอนล่างที่ยังมีน้ำท่วม: ตาก 2 อำเภอ 561 ครัวเรือน พิษณุโลก (บางระกำ) 8 ครัวเรือน เพชรบูรณ์ 6 อำเภอ 82 ครัวเรือน กำแพงเพชร 8 อำเภอ 6,122 ครัวเรือน นครสวรรค์ 11 อำเภอ 7,777 ครัวเรือน",
+      "numbers": [
+        "Tak: 2 districts; 561 households",
+        "Phitsanulok: Bang Rakam; 8 households",
+        "Phetchabun: 6 districts; 82 households",
+        "Kamphaeng Phet: 8 districts; 6,122 households",
+        "Nakhon Sawan: 11 districts; 7,777 households"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.thansettakij.com/general-news/670286"
+      ],
+      "sources": [
+        {
+          "name": "Thansettakij",
+          "title": "อัปเดตน้ำท่วมล่าสุด 30 ก.ย.69 \"ปภ.\"เผยกระทบ 31 จว.กว่า 1 ล้านครัวเรือน",
+          "url": "https://www.thansettakij.com/general-news/670286",
+          "published": "2026-09-30",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-tak-mae-sot",
+      "event_date": "2026-09-29",
+      "event_start": "2026-09-29",
+      "event_end": "2026-09-29",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "north",
+      "province": "Tak",
+      "provinces": [
+        "Tak"
+      ],
+      "district": "Mae Sot",
+      "place": "ต.แม่กาษา ม.2 ม.13 ลำห้วยแม่ละเมา",
+      "lat": 16.7556,
+      "lon": 98.69704,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอแม่สอด, จังหวัดตาก, 63110, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "moderate",
+      "verified": true,
+      "summary_th": "น้ำป่าไหลหลากจาก ต.คีรีราษฎร์ อ.พบพระ ผ่านลำห้วยแม่ละเมาเข้าท่วม ต.แม่กาษา อ.แม่สอด เดือดร้อนราว 150 ครัวเรือน อพยพราว 30 คนรวมผู้ป่วยติดเตียง ปภ.ตากรายงานภาพรวม 7 อำเภอ 12 ตำบล 58 หมู่บ้าน 1,293 ครัวเรือน",
+      "numbers": [
+        "150 ครัวเรือน",
+        "ประมาณ 30 ราย",
+        "7 districts, 12 subdistricts, 58 villages, 1,293 households"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.banmuang.co.th/news/region/492405",
+        "https://www.thaipbs.or.th/news/content/558820"
+      ],
+      "sources": [
+        {
+          "name": "Ban Muang",
+          "title": "น้ำป่าทะลักท่วม ต.แม่กาษา อ.แม่สอด เดือดร้อน 150 หลัง เร่งอพยพผู้ป่วยติดเตียง",
+          "url": "https://www.banmuang.co.th/news/region/492405",
+          "published": "2026-09-29",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Thai PBS",
+          "title": "น้ำป่าทะลักท่วมบ้านแม่กาษา จ.ตาก จนท.เร่งอพยพชาวบ้าน",
+          "url": "https://www.thaipbs.or.th/news/content/558820",
+          "published": "2026-09-29",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-multiple-warning",
+      "event_date": "2026-09-29/2026-10-01",
+      "event_start": "2026-09-29",
+      "event_end": "2026-10-01",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "national",
+      "province": "Multiple",
+      "provinces": [
+        "Chiang Mai",
+        "Kamphaeng Phet",
+        "Uthai Thani",
+        "Rayong",
+        "Mae Hong Son",
+        "Lampang",
+        "Kanchanaburi",
+        "Tak"
+      ],
+      "district": "",
+      "place": null,
+      "lat": null,
+      "lon": null,
+      "province_text": "Chiang Mai, Kamphaeng Phet, Uthai Thani, Rayong, Mae Hong Son, Lampang, Kanchanaburi, Tak",
+      "type": "warning",
+      "kind": "warning",
+      "phase": "before",
+      "severity": "warning",
+      "verified": true,
+      "summary_th": "สทนช.เตือนเฝ้าระวังน้ำท่วมฉับพลันใน 8 จังหวัดภาคเหนือ-ตะวันตกใน 48 ชั่วโมง ฝนสะสมทั้งประเทศถึง 28 ก.ย. 1,166 มม. อ่างเก็บน้ำขนาดใหญ่ 35 แห่งมีน้ำ 56,543 ล้าน ลบ.ม. (79.72%)",
+      "numbers": [
+        "8 จังหวัด",
+        "1,166 mm (national)",
+        "Northern region: 1,053 mm",
+        "Eastern: 1,759 mm",
+        "56,543 million cubic meters (79.72% capacity)"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.sdggo.com/sdggo-news-32769/"
+      ],
+      "sources": [
+        {
+          "name": "SDG Go",
+          "title": "น้ำท่วมไม่จบ เตือนเสี่ยงท่วมฉับพลัน 8 จังหวัด เหนือ–ตะวันตกเฝ้าระวัง 48 ชั่วโมง",
+          "url": "https://www.sdggo.com/sdggo-news-32769/",
+          "published": "2026-09-29",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-09-29-bangkok-summary",
+      "event_date": "2026-09-29/2026-09-30",
+      "event_start": "2026-09-29",
+      "event_end": "2026-09-30",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "national",
+      "province": "Multiple",
+      "provinces": [
+        "Bangkok"
+      ],
+      "district": "",
+      "place": null,
+      "lat": null,
+      "lon": null,
+      "province_text": "29-31 provinces + Bangkok",
+      "type": "summary",
+      "kind": "news",
+      "phase": "during",
+      "severity": "severe",
+      "verified": true,
+      "summary_th": "ปภ.รายงาน 29 ก.ย. น้ำท่วม 29 จังหวัดและกรุงเทพฯ 167 อำเภอ 890 ตำบล 5,077 หมู่บ้าน 940,300 ครัวเรือน กว่า 2.6 ล้านคน เสียชีวิตสะสม 23 รายตั้งแต่ 16 ก.ย. วันที่ 30 ก.ย. เพิ่มเป็น 31 จังหวัด 195 อำเภอ 1,041,307 ครัวเรือน 2,932,661 คน (ไม่รวม กทม. 329,000 ครัวเรือน)",
+      "numbers": [
+        "29 provinces",
+        "167 districts, 890 subdistricts, and 5,077 villages",
+        "940,300 households",
+        "more than 2.6 million people",
+        "23 cumulative deaths since September 16",
+        "195 districts, 1,196 subdistricts, and 8,249 villages",
+        "1,041,307 households and 2,932,661 people"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.nationthailand.com/news/general/40071641",
+        "https://www.thaipbs.or.th/news/content/558897"
+      ],
+      "sources": [
+        {
+          "name": "The Nation",
+          "title": "Floods affect 2.6m people across 29 provinces and Bangkok",
+          "url": "https://www.nationthailand.com/news/general/40071641",
+          "published": "2026-09-29",
+          "lang": "en",
+          "verified": true
+        },
+        {
+          "name": "Thai PBS",
+          "title": "น้ำท่วม 31 จังหวัด - กทม.เสียชีวิต 4 สระแก้ว 8 คน",
+          "url": "https://www.thaipbs.or.th/news/content/558897",
+          "published": "2026-09-30",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-09-28-tak-ban-tak-wang-chao",
+      "event_date": "2026-09-28",
+      "event_start": "2026-09-28",
+      "event_end": "2026-09-28",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "north",
+      "province": "Tak",
+      "provinces": [
+        "Tak"
+      ],
+      "district": "Ban Tak; Wang Chao",
+      "place": "ทล.1175 ตาก-แม่ระมาด กม.55+942 บ้านมงคลห้วยตาก ม.5 ต.ท้องฟ้า; ต.นาโบสถ์",
+      "lat": 17.15977,
+      "lon": 99.15215,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอบ้านตาก, จังหวัดตาก, 63120, ประเทศไทย",
+      "type": "landslide",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "moderate",
+      "verified": true,
+      "summary_th": "ฝนตกหนักต่อเนื่อง 24 ชั่วโมงทำให้ดินภูเขาถล่มทับทางหลวง 1175 ตาก-แม่ระมาด กม.55+942 หวิดทับรถ ต้องปิดเส้นทาง ส่วน ต.นาโบสถ์ อ.วังเจ้า น้ำป่าพัดโลงเย็นของวัดลอยไปกับน้ำ ทหารและกู้ภัยช่วยย้ายผู้ป่วยติดเตียง",
+      "numbers": [
+        "km 55+942",
+        "24 hours"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.thairath.co.th/news/local/north/2962673"
+      ],
+      "sources": [
+        {
+          "name": "Thairath",
+          "title": "ดินภูเขาถล่ม หวิดทับรถบนถนนตาก-แม่ระมาด น้ำป่าหลากพัดโลงเย็นลอยน้ำ",
+          "url": "https://www.thairath.co.th/news/local/north/2962673",
+          "published": "2026-09-28",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-bangkok-summary",
+      "event_date": "2026-09-27",
+      "event_start": "2026-09-27",
+      "event_end": "2026-09-27",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "national",
+      "province": "Multiple",
+      "provinces": [
+        "Bangkok"
+      ],
+      "district": "",
+      "place": null,
+      "lat": null,
+      "lon": null,
+      "province_text": "25 provinces + Bangkok",
+      "type": "summary",
+      "kind": "news",
+      "phase": "during",
+      "severity": "severe",
+      "verified": true,
+      "summary_th": "ปภ.รายงานน้ำท่วม 25 จังหวัดและทั้ง 50 เขตของกรุงเทพฯ 128 อำเภอ 587 ตำบล กระทบ 174,803 ครัวเรือน 545,022 คน เสียชีวิต 8 ราย สาเหตุจากฝนตกหนักและน้ำเหนือไหลลงภาคกลาง",
+      "numbers": [
+        "174,803 families",
+        "545,022 people",
+        "25 provinces plus all 50 Bangkok districts",
+        "128 districts and 587 subdistricts",
+        "8 deaths total"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.khaosodenglish.com/news/2026/09/27/flooding-affects-more-than-174000-families-across-thailand-8-dead/",
+        "https://www.thaipbs.or.th/news/content/558682"
+      ],
+      "sources": [
+        {
+          "name": "Khaosod English",
+          "title": "Flooding affects more than 174,000 families across Thailand, 8 dead",
+          "url": "https://www.khaosodenglish.com/news/2026/09/27/flooding-affects-more-than-174000-families-across-thailand-8-dead/",
+          "published": "2026-09-27",
+          "lang": "en",
+          "verified": true
+        },
+        {
+          "name": "Thai PBS",
+          "title": "น้ำท่วม 25 จังหวัด กระทบ 1.74 แสนครัวเรือน สระแก้วเสียชีวิต 5 คน",
+          "url": "https://www.thaipbs.or.th/news/content/558682",
+          "published": "2026-09-27",
+          "lang": "th",
+          "verified": true,
+          "note": "deaths split differs between sources: Khaosod EN Sa Kaeo 5/Chanthaburi 2/Saraburi 1; Thai PBS Sa Kaeo 5/Chachoengsao 2/Saraburi 1"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-26-mae-hong-son-mae-sariang-sop-moei",
+      "event_date": "2026-09-26",
+      "event_start": "2026-09-26",
+      "event_end": "2026-09-26",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "north",
+      "province": "Mae Hong Son",
+      "provinces": [
+        "Mae Hong Son"
+      ],
+      "district": "Mae Sariang; Sop Moei",
+      "place": "ลำห้วยแม่กองแป ม.9 ต.แม่ยวม; โรงเรียนบ้านแม่กองแป; ต.แม่สามแลบ",
+      "lat": 18.29682,
+      "lon": 97.76682,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอแม่สะเรียง, จังหวัดแม่ฮ่องสอน, 58110, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "minor",
+      "verified": true,
+      "summary_th": "ราว 20.00 น. ฝนตกหนักทำให้น้ำป่าไหลหลากในลำห้วยแม่กองแป ม.9 ต.แม่ยวม อ.แม่สะเรียง เอ่อท่วมบ้านเรือนและโรงเรียนบ้านแม่กองแป เศษไม้อุดทางน้ำทำให้น้ำล้นขึ้นทางหลวง 1194",
+      "numbers": [
+        "ม.9",
+        "ทางหลวง 1194",
+        "20:00 น."
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://siamrath.co.th/regional/324303"
+      ],
+      "sources": [
+        {
+          "name": "Siam Rath",
+          "title": "\"แม่ฮ่องสอน\" น้ำป่าทะลัก! ท่วมโรงเรียนบ้านแม่กองแป-บ้านเรือน หลังฝนถล่มแม่สะเรียง เตือนเฝ้าระวัง",
+          "url": "https://siamrath.co.th/regional/324303",
+          "published": "2026-09-26",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-bangkok-all-50-districts-initially-nong-chok-suan-luang-khan-na-yao",
+      "event_date": "2026-09-25/2026-09-29",
+      "event_start": "2026-09-25",
+      "event_end": "2026-09-29",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "central",
+      "province": "Bangkok",
+      "provinces": [
+        "Bangkok"
+      ],
+      "district": "All 50 districts (initially Nong Chok, Suan Luang, Khan Na Yao)",
+      "place": null,
+      "lat": 13.75249,
+      "lon": 100.49351,
+      "latlon_source": "nominatim (approx, province centroid): กรุงเทพมหานคร, ประเทศไทย",
+      "type": "urban-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "severe",
+      "verified": true,
+      "summary_th": "กทม.ขยายประกาศเขตประสบสาธารณภัยจาก 3 เขต (หนองจอก สวนหลวง คันนายาว) เป็นทั้ง 50 เขต มีผลตั้งแต่ 25 ก.ย. 2569 หลังฝนตกต่อเนื่องเกือบ 48 ชั่วโมง ประชาชนกระทบราว 700,000 คน ราว 329,000 ครัวเรือน เสียชีวิต 4 ราย ผู้อพยพราว 7,000 คนในกว่า 230 จุด",
+      "numbers": [
+        "3 เขต",
+        "50 เขต",
+        "almost 48 hours of continuous rain",
+        "around 700,000 people",
+        "approximately 329,000 households",
+        "Bangkok: 4 deaths",
+        "Approximately 7,000 residents sheltered in over 230 locations"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.thaipbs.or.th/news/content/558588",
+        "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/29/four-dead-in-bangkok-floods-as-thailand-toll-rises-to-23-ministry",
+        "https://www.nationthailand.com/news/general/40071641"
+      ],
+      "sources": [
+        {
+          "name": "Thai PBS",
+          "title": "กทม. ยกระดับประกาศเขตภัยพิบัติอุทกภัย ครอบคลุมทั้ง 50 เขตทั่วเมือง",
+          "url": "https://www.thaipbs.or.th/news/content/558588",
+          "published": "2026-09-26",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "The Star",
+          "title": "Four dead in Bangkok floods as Thailand toll rises to 23: Ministry",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/29/four-dead-in-bangkok-floods-as-thailand-toll-rises-to-23-ministry",
+          "published": "2026-09-29",
+          "lang": "en",
+          "verified": true
+        },
+        {
+          "name": "The Nation",
+          "title": "Floods affect 2.6m people across 29 provinces and Bangkok",
+          "url": "https://www.nationthailand.com/news/general/40071641",
+          "published": "2026-09-29",
+          "lang": "en",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-samut-prakan-mueang-samut-prakan-bang-phli-bang-bo-bang-sao-thong-phra-samut-chedi-phra-pradaeng",
+      "event_date": "2026-09-23/2026-09-29",
+      "event_start": "2026-09-23",
+      "event_end": "2026-09-29",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "central",
+      "province": "Samut Prakan",
+      "provinces": [
+        "Samut Prakan"
+      ],
+      "district": "Mueang Samut Prakan, Bang Phli, Bang Bo, Bang Sao Thong, Phra Samut Chedi, Phra Pradaeng",
+      "place": null,
+      "lat": 13.57676,
+      "lon": 100.62809,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอเมืองสมุทรปราการ, จังหวัดสมุทรปราการ, ประเทศไทย",
+      "type": "urban-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "severe",
+      "verified": true,
+      "summary_th": "ฝนตกหนักประกอบกับน้ำทะเลหนุนสูงตั้งแต่ 23 ก.ย. ทำให้สมุทรปราการประกาศเขตภัยพิบัติ 6 อำเภอ เป็นจังหวัดที่ได้รับผลกระทบหนักที่สุด ปภ.รายงาน 260,784 ครัวเรือน 818,862 คน เสียชีวิต 8 ราย (29 ก.ย.)",
+      "numbers": [
+        "6 อำเภอ",
+        "124,678 families (27 Sep)",
+        "260,784 households and 818,862 people (29 Sep)",
+        "307,704 households (2 Oct)",
+        "Samut Prakan: 8 deaths"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.thaipbs.or.th/news/content/558704",
+        "https://www.nationthailand.com/news/general/40071641",
+        "https://www.thaipbs.or.th/news/content/559011"
+      ],
+      "sources": [
+        {
+          "name": "Thai PBS",
+          "title": "สมุทรปราการ ประกาศเขตภัยพิบัติ น้ำท่วม 6 อำเภอ",
+          "url": "https://www.thaipbs.or.th/news/content/558704",
+          "published": "2026-09-27",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "The Nation",
+          "title": "Floods affect 2.6m people across 29 provinces and Bangkok",
+          "url": "https://www.nationthailand.com/news/general/40071641",
+          "published": "2026-09-29",
+          "lang": "en",
+          "verified": true
+        },
+        {
+          "name": "Thai PBS",
+          "title": "ปภ.รายงานน้ำท่วม 31 จังหวัด เร่งระบายน้ำ–พร้อมฟื้นฟูพื้นที่คลี่คลาย",
+          "url": "https://www.thaipbs.or.th/news/content/559011",
+          "published": "2026-10-02",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-09-22-multiple-ayutthaya-sena-phak-hai-bang-ban-phra-nakhon-si-ayutthaya-bang-pa-in-bang-sai",
+      "event_date": "2026-09-22",
+      "event_start": "2026-09-22",
+      "event_end": "2026-09-22",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "central",
+      "province": "Multiple",
+      "provinces": [
+        "Uthai Thani",
+        "Chai Nat",
+        "Sing Buri",
+        "Ang Thong",
+        "Suphan Buri",
+        "Phra Nakhon Si Ayutthaya",
+        "Lopburi",
+        "Pathum Thani",
+        "Nonthaburi",
+        "Samut Prakan",
+        "Bangkok"
+      ],
+      "district": "Ayutthaya: Sena, Phak Hai, Bang Ban, Phra Nakhon Si Ayutthaya, Bang Pa-in, Bang Sai",
+      "place": null,
+      "lat": null,
+      "lon": null,
+      "province_text": "Uthai Thani, Chai Nat, Sing Buri, Ang Thong, Suphan Buri, Ayutthaya, Lopburi, Pathum Thani, Nonthaburi, Samut Prakan, Bangkok",
+      "type": "warning",
+      "kind": "warning",
+      "phase": "before",
+      "severity": "warning",
+      "verified": true,
+      "summary_th": "ปภ.เตือน 10 จังหวัดและกรุงเทพฯ เฝ้าระวังระดับน้ำเจ้าพระยาสูงขึ้น จากการระบายน้ำเขื่อนเจ้าพระยา 1,000–1,300 ลบ.ม./วินาที ระดับน้ำนอกคันกั้นน้ำอาจสูงขึ้น 0.50–1.50 เมตร",
+      "numbers": [
+        "1,000–1,300 cubic meters per second",
+        "0.50–1.50 meters",
+        "10 provinces"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.thaipbs.or.th/news/content/558303"
+      ],
+      "sources": [
+        {
+          "name": "Thai PBS",
+          "title": "เตือน 10 จังหวัด-กทม.เฝ้าระวังระดับน้ำเจ้าพระยาเพิ่มสูงขึ้น",
+          "url": "https://www.thaipbs.or.th/news/content/558303",
+          "published": "2026-09-22",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-lamphun-li-thung-hua-chang",
+      "event_date": "2026-09-20",
+      "event_start": "2026-09-20",
+      "event_end": "2026-09-20",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "north",
+      "province": "Lamphun",
+      "provinces": [
+        "Lamphun"
+      ],
+      "district": "Li; Thung Hua Chang",
+      "place": "บ้านห้วยต้น ม.19 ต.ลี้ อ.ลี้",
+      "lat": 17.79579,
+      "lon": 98.92071,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอลี้, จังหวัดลำพูน, 51110, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "moderate",
+      "verified": true,
+      "summary_th": "มวลน้ำจาก อ.ทุ่งหัวช้าง ต้นน้ำแม่ลี้ ไหลหลากท่วมหมู่ 19 ต.ลี้ อ.ลี้ ท่วมบ้านเรือน สะพานข้ามน้ำลี้ ถนน และพื้นที่เกษตร แจ้งเตือนหมู่บ้านท้ายน้ำ อ.บ้านโฮ่ง และ อ.เวียงหนองล่อง ให้เตรียมรับน้ำท่วมฉับพลัน",
+      "numbers": [],
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy048",
+          "name": "ฝายน้ำล้นแม่แต๊ะผาแล ต.นาทราย อ.ลี้ จ.ลำพูน",
+          "km": 7.9
+        },
+        {
+          "nickname": "FloodBoy045",
+          "name": "ฝายเด่นดู่ น้ำลี้ ต.ดงดำ อ.ลี้ จ.ลำพูน",
+          "km": 12.7
+        },
+        {
+          "nickname": "FloodBoy046",
+          "name": "สะพานแม่แสม น้ำลี้ ต.ตะเคียนปม อ.ทุ่งหัวช้าง จ.ลำพูน",
+          "km": 29.6
+        }
+      ],
+      "source_urls": [
+        "https://www.chiangmainews.co.th/news/4130491/"
+      ],
+      "sources": [
+        {
+          "name": "Chiang Mai News",
+          "title": "มวลน้ำไหลหลากมาจาก อ.ทุ่งหัวช้าง ไหลทะลักท่วม อ.ลี้ เตือนท้ายน้ำลี้ระวังน้ำท่วม",
+          "url": "https://www.chiangmainews.co.th/news/4130491/",
+          "published": "2026-09-20",
+          "lang": "th",
+          "verified": true,
+          "note": "village name rendered 'Ho Ton' in English by the fetch tool; Thai name unconfirmed"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-20-sa-kaeo-mueang-sa-kaeo-watthana-nakhon-aranyaprathet-khok-sung-khlong-hat-wang-nam-yen-khao-chakan",
+      "event_date": "2026-09-20/2026-09-30",
+      "event_start": "2026-09-20",
+      "event_end": "2026-09-30",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "east",
+      "province": "Sa Kaeo",
+      "provinces": [
+        "Sa Kaeo"
+      ],
+      "district": "Mueang Sa Kaeo, Watthana Nakhon, Aranyaprathet, Khok Sung, Khlong Hat, Wang Nam Yen, Khao Chakan",
+      "place": null,
+      "lat": 13.93814,
+      "lon": 102.07978,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอเมืองสระแก้ว, จังหวัดสระแก้ว, 27000, ประเทศไทย",
+      "type": "river-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "severe",
+      "verified": true,
+      "summary_th": "น้ำท่วมสระแก้ว 7 อำเภอ 27 ตำบล 163 หมู่บ้าน 8,716 ครัวเรือน ระดับน้ำยังเพิ่มขึ้น (27 ก.ย.) ผู้เสียชีวิตเพิ่มจาก 5 ราย เป็น 6 ราย (29 ก.ย.) และ Thai PBS รายงาน 8 คน (30 ก.ย.)",
+      "numbers": [
+        "7 อำเภอ",
+        "27 ตำบล 163 หมู่บ้าน",
+        "8,716 ครัวเรือน",
+        "5 deaths (27 Sep)",
+        "Sa Kaeo: 6 deaths (29 Sep)",
+        "สระแก้ว 8 คน (headline, 30 Sep)"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.thaipbs.or.th/news/content/558682",
+        "https://www.nationthailand.com/news/general/40071641",
+        "https://www.thaipbs.or.th/news/content/558897"
+      ],
+      "sources": [
+        {
+          "name": "Thai PBS",
+          "title": "น้ำท่วม 25 จังหวัด กระทบ 1.74 แสนครัวเรือน สระแก้วเสียชีวิต 5 คน",
+          "url": "https://www.thaipbs.or.th/news/content/558682",
+          "published": "2026-09-27",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "The Nation",
+          "title": "Floods affect 2.6m people across 29 provinces and Bangkok",
+          "url": "https://www.nationthailand.com/news/general/40071641",
+          "published": "2026-09-29",
+          "lang": "en",
+          "verified": true
+        },
+        {
+          "name": "Thai PBS",
+          "title": "น้ำท่วม 31 จังหวัด - กทม.เสียชีวิต 4 สระแก้ว 8 คน",
+          "url": "https://www.thaipbs.or.th/news/content/558897",
+          "published": "2026-09-30",
+          "lang": "th",
+          "verified": true,
+          "note": "article body as fetched listed Sa Kaeo 6; headline says 8 — conflicting"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-17-mae-hong-son-mae-la-noi-khun-yuam",
+      "event_date": "2026-09-17/2026-09-18",
+      "event_start": "2026-09-17",
+      "event_end": "2026-09-18",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "north",
+      "province": "Mae Hong Son",
+      "provinces": [
+        "Mae Hong Son"
+      ],
+      "district": "Mae La Noi; Khun Yuam",
+      "place": null,
+      "lat": 18.46515,
+      "lon": 97.94467,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอแม่ลาน้อย, จังหวัดแม่ฮ่องสอน, 58120, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "moderate",
+      "verified": true,
+      "summary_th": "ฝนตกหนักทำให้น้ำป่าไหลหลากท่วมชุมชน อ.แม่ลาน้อย ต้นไม้ใหญ่หักโค่นขวางถนน ขณะที่ อ.ขุนยวม เกิดน้ำท่วมหมู่บ้านเป็นครั้งที่ 4 ของปี รุนแรงกว่าครั้งก่อน",
+      "numbers": [
+        "น้ำท่วมหมู่บ้านครั้งที่ 4 ของปี"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.thaipbs.or.th/news/content/558110"
+      ],
+      "sources": [
+        {
+          "name": "Thai PBS",
+          "title": "น้ำป่าทะลักท่วมชุมชนแม่ลาน้อย จ.แม่ฮ่องสอน ต้นไม้ล้มขวางถนน",
+          "url": "https://www.thaipbs.or.th/news/content/558110",
+          "published": "2026-09-18",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-09-17-phrae-flash-flood",
+      "event_date": "2026-09-17/2026-09-18",
+      "event_start": "2026-09-17",
+      "event_end": "2026-09-18",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "north",
+      "province": "Phrae",
+      "provinces": [
+        "Phrae"
+      ],
+      "district": "",
+      "place": null,
+      "lat": 18.29306,
+      "lon": 100.08868,
+      "latlon_source": "nominatim (approx, province centroid): จังหวัดแพร่, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "minor",
+      "verified": true,
+      "summary_th": "ฝนถล่มทำให้น้ำแม่คำมีหลากเพิ่มระดับ ชาย 3 คนติดอยู่กลางน้ำ เจ้าหน้าที่นำออกจากจุดเสี่ยงได้อย่างปลอดภัย",
+      "numbers": [
+        "ชาย 3 คน"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.thaipbs.or.th/news/content/558110"
+      ],
+      "sources": [
+        {
+          "name": "Thai PBS",
+          "title": "น้ำป่าทะลักท่วมชุมชนแม่ลาน้อย จ.แม่ฮ่องสอน ต้นไม้ล้มขวางถนน",
+          "url": "https://www.thaipbs.or.th/news/content/558110",
+          "published": "2026-09-18",
+          "lang": "th",
+          "verified": true,
+          "note": "Phrae item is a secondary paragraph in a Mae Hong Son article; district not stated"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-10-phayao-mueang-phayao",
+      "event_date": "2026-09-10",
+      "event_start": "2026-09-10",
+      "event_end": "2026-09-10",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "north",
+      "province": "Phayao",
+      "provinces": [
+        "Phayao"
+      ],
+      "district": "Mueang Phayao",
+      "place": "ต.บ้านใหม่ ต.บ้านต๊ำ ต.บ้านท่าจำปี",
+      "lat": 19.15071,
+      "lon": 99.83741,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอเมืองพะเยา, จังหวัดพะเยา, 56000, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "minor",
+      "verified": true,
+      "summary_th": "ฝนตกหนักทั้งคืนวันที่ 10 ก.ย. ใน อ.เมืองพะเยา ทำให้น้ำไหลหลาก ท่วมขัง และล้นตลิ่งหลายจุด กระทบ 3 ตำบล 56 หลังคาเรือน (บ้านใหม่ 50 บ้านต๊ำ 3 บ้านท่าจำปี 3) น้ำลดเข้าสู่ภาวะปกติแล้ว",
+      "numbers": [
+        "3 ตำบล",
+        "56 หลังคาเรือน",
+        "ตำบลบ้านใหม่ (50 หลัง)",
+        "ตำบลบ้านต๊ำ (3 หลัง)",
+        "ตำบลบ้านท่าจำปี (3 หลัง)"
+      ],
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy033",
+          "name": "บ้านหาดแฟน หมู่ที่ 6  ต.ห้วยแก้ว อ.ภูกามยาว จ.พะเยา",
+          "km": 28.8
+        },
+        {
+          "nickname": "FloodBoy032",
+          "name": "บ้านห้วยทรายขาว หมู่ที่ 16 ต.ห้วยแก้ว อ.ภูกามยาว จ.พะเยา",
+          "km": 29.9
+        }
+      ],
+      "source_urls": [
+        "https://www.bangkokbiznews.com/news/news-update/1251425"
+      ],
+      "sources": [
+        {
+          "name": "Krungthep Turakij",
+          "title": "เมืองพะเยาเร่งสำรวจน้ำท่วม หลังฝนตกหนักทั้งคืน",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1251425",
+          "published": "2026-10-06",
+          "lang": "th",
+          "verified": true,
+          "note": "fetched page showed publish date วันอังคาร 6 ต.ค. 2569 but event night '10 ก.ย.'; publish date may be a page-level update stamp"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-08-chiang-rai-mae-chan",
+      "event_date": "2026-09-08",
+      "event_start": "2026-09-08",
+      "event_end": "2026-09-08",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "north",
+      "province": "Chiang Rai",
+      "provinces": [
+        "Chiang Rai"
+      ],
+      "district": "Mae Chan",
+      "place": "ถนนเชียงแสน-เชียงของ ก่อนถึงวัดดอยเทพนิมิต",
+      "lat": 20.14711,
+      "lon": 99.85318,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอแม่จัน, ป่าซาง, จังหวัดเชียงราย, 57270, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "minor",
+      "verified": true,
+      "summary_th": "น้ำป่าจากยอดดอยไหลทะลักลงถนนสายเชียงแสน-เชียงของ ช่วงก่อนถึงวัดดอยเทพนิมิต อ.แม่จัน เสี่ยงน้ำล้นตลิ่งและดินสไลด์ กรมอุตุฯ ตรวจพบกลุ่มฝนใหม่ในพื้นที่แม่สาย-แม่จัน เวลา 07.00 น.",
+      "numbers": [
+        "07.00 น."
+      ],
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy037",
+          "name": "สะพานฝายผาม้า ลำน้ำแม่คำ 1 ต.แม่คำ อ.แม่จัน จ.เชียงราย",
+          "km": 10.4
+        },
+        {
+          "nickname": "FloodBoy012",
+          "name": "บ้านร่องก๊อ ต.แม่คำ อ.แม่จัน จ.เชียงราย",
+          "km": 10.6
+        },
+        {
+          "nickname": "FloodBoy011",
+          "name": "บ้านห้วยพลู ต.ท่าสุด อ.เมืองเชียงราย จ.เชียงราย",
+          "km": 11.5
+        }
+      ],
+      "source_urls": [
+        "https://www.bangkokbiznews.com/news/news-update/1250895"
+      ],
+      "sources": [
+        {
+          "name": "Krungthep Turakij",
+          "title": "น้ำป่าดอยทะลักซัดตัดขาด 'แม่จัน' เสี่ยงรถจมดับ อุตุฯ พบฝนใหม่ซ้ำ",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1250895",
+          "published": "2026-09-08",
+          "lang": "th",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-09-07-chiang-rai-mae-sai",
+      "event_date": "2026-09-07",
+      "event_start": "2026-09-07",
+      "event_end": "2026-09-07",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "north",
+      "province": "Chiang Rai",
+      "provinces": [
+        "Chiang Rai"
+      ],
+      "district": "Mae Sai",
+      "place": "สะพานมิตรภาพไทย-เมียนมา แห่งที่ 1; ต.เวียงพางคำ แม่สาย เกาะช้าง; ตลาดสายลมจอย",
+      "lat": 20.43977,
+      "lon": 99.88297,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอแม่สาย, เวียงพางคำ, จังหวัดเชียงราย, ประเทศไทย",
+      "type": "river-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "warning",
+      "verified": true,
+      "summary_th": "ฝนตกหนักทำให้แม่น้ำสายสูงขึ้นถึงใต้ท้องสะพานมิตรภาพไทย-เมียนมาแห่งที่ 1 ออกแจ้งเตือนฉุกเฉินราว 9:04 น. ถึง ต.เวียงพางคำ แม่สาย และเกาะช้าง เสริมบิ๊กแบ็ก จุดตลาดสายลมจอยป้องกันได้ผล ต่อมาน้ำลดและทรงตัว",
+      "numbers": [
+        "approximately 9:04 a.m."
+      ],
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy014",
+          "name": "บ้านหนองบัวหัวฝาย ต.จันจว้า อ.แม่จัน จ.เชียงราย",
+          "km": 18.1
+        },
+        {
+          "nickname": "FloodBoy039",
+          "name": "ศรีดอนมูล ลำน้ำแม่คำ 3 ต.ศรีดอนมูล อ.เชียงแสน จ.เชียงราย",
+          "km": 18.7
+        },
+        {
+          "nickname": "FloodBoy038",
+          "name": "สะพานบ้านสันธาตุ ลำน้ำแม่คำ 2 ต.แม่คำ อ.แม่จัน จ.เชียงราย",
+          "km": 19.5
+        }
+      ],
+      "source_urls": [
+        "https://www.nationthailand.com/news/general/40070754"
+      ],
+      "sources": [
+        {
+          "name": "The Nation",
+          "title": "Chiang Rai flood alert after Mae Sai River reaches bridge underside",
+          "url": "https://www.nationthailand.com/news/general/40070754",
+          "published": "2026-09-07",
+          "lang": "en",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-multiple-summary",
+      "event_date": "2026-08-22",
+      "event_start": "2026-08-22",
+      "event_end": "2026-08-22",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "national",
+      "province": "Multiple",
+      "provinces": [
+        "Nan",
+        "Sukhothai",
+        "Phitsanulok",
+        "Phetchabun",
+        "Uttaradit",
+        "Ubon Ratchathani"
+      ],
+      "district": "",
+      "place": null,
+      "lat": null,
+      "lon": null,
+      "province_text": "Nan, Sukhothai, Phitsanulok, Phetchabun, Uttaradit, Ubon Ratchathani",
+      "type": "summary",
+      "kind": "news",
+      "phase": "during",
+      "severity": "moderate",
+      "verified": true,
+      "summary_th": "ณ 22 ส.ค. น้ำท่วมยังคงอยู่ใน 12 อำเภอ 6 จังหวัด (น่าน สุโขทัย พิษณุโลก เพชรบูรณ์ อุตรดิตถ์ อุบลราชธานี) 33 ตำบล 161 หมู่บ้าน 6,617 ครัวเรือน 19,987 คน จังหวัดท้ายน้ำได้รับคำสั่งให้เตรียมรับน้ำจากน่าน",
+      "numbers": [
+        "12 districts across six provinces",
+        "33 subdistricts",
+        "161 villages",
+        "6,617",
+        "19,987"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.nationthailand.com/news/general/40070129"
+      ],
+      "sources": [
+        {
+          "name": "The Nation",
+          "title": "Nan floods ease but heavy rain and run-off risks remain",
+          "url": "https://www.nationthailand.com/news/general/40070129",
+          "published": "2026-08-22",
+          "lang": "en",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-08-20-nan-mueang-nan-phu-phiang-wiang-sa-tha-wang-pha",
+      "event_date": "2026-08-20/2026-08-22",
+      "event_start": "2026-08-20",
+      "event_end": "2026-08-22",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "north",
+      "province": "Nan",
+      "provinces": [
+        "Nan"
+      ],
+      "district": "Mueang Nan; Phu Phiang; Wiang Sa; Tha Wang Pha",
+      "place": "ต.กลางเวียง น้ำปั้ว ตาลชุม ไหล่น่าน (อ.เวียงสา); ชุมชนบ้านพญาภู; สะพานสบยาว",
+      "lat": 18.86495,
+      "lon": 100.65957,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอเมืองน่าน, จังหวัดน่าน, 55000, ประเทศไทย",
+      "type": "river-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "severe",
+      "verified": true,
+      "summary_th": "มวลน้ำแม่น้ำน่านไหลลงท้ายน้ำ ท่วม อ.เวียงสา 5 ตำบล ลึก 1.5–2 เมตร ที่ลุ่มต่ำถึง 3 เมตร บ้านเรือนกว่า 1,000 หลังถูกตัดขาด อ.ภูเพียงน้ำสูงกว่าตลิ่งราว 1.10 เมตร GISTDA พบน้ำท่วมขัง 2,793.28 เฮกตาร์ใน 3 อำเภอ ผู้เสียชีวิตรวม 3 ราย ฝนสะสมสูงสุด 388 มิลลิเมตร อัตราไหลสูงสุด 2,165 ลบ.ม./วินาที",
+      "numbers": [
+        "1.5–2 เมตร",
+        "3 เมตร",
+        "มากกว่า 1,000 หลัง",
+        "Phu Phiang ~1.10 meters above banks",
+        "Nan city ~60 centimeters above banks",
+        "388 มิลลิเมตร",
+        "2,165 ลบ.ม./วินาที",
+        "2,793.28 hectares",
+        "Death Toll: 3",
+        "about two metres above the riverbank (Wiang Sa)",
+        "557 cubic metres per second (capacity: 1,066)"
+      ],
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy010",
+          "name": "สถานีทดสอบเทียบวัด ต.ฝายแก้ว อ.ภูเพียง จ.น่าน",
+          "km": 16.1
+        }
+      ],
+      "source_urls": [
+        "https://www.thaipbs.or.th/news/content/509688",
+        "https://www.thaipbs.or.th/news/content/509709",
+        "https://news.trueid.net/detail/OlGmReD81bPr",
+        "https://www.nationthailand.com/news/general/40070082",
+        "https://www.nationthailand.com/news/general/40070102",
+        "https://www.nationthailand.com/news/general/40070129"
+      ],
+      "sources": [
+        {
+          "name": "Thai PBS",
+          "title": "เวียงสา จ.น่าน น้ำทะลักท่วม 5 ตำบล สูง 1.5-3 เมตร 1 พันครัวเรือนถูกตัดขาด",
+          "url": "https://www.thaipbs.or.th/news/content/509688",
+          "published": "2026-08-21",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Thai PBS",
+          "title": "\"ยศชนัน\" เผยภาพรวมน้ำท่วม \"น่าน\" ระดับน้ำเริ่มลด - สั่งเร่งฟื้นฟู",
+          "url": "https://www.thaipbs.or.th/news/content/509709",
+          "published": "2026-08-21",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "TrueID / TNN",
+          "title": "เปิดสถิติน้ำท่วมน่าน 63 ปี เหตุใหญ่เกิดซ้ำ 3 ปีติด 2567-2569",
+          "url": "https://news.trueid.net/detail/OlGmReD81bPr",
+          "published": "2026-08-20",
+          "lang": "th",
+          "verified": true,
+          "note": "the 15 อำเภอ/32,434 ครัวเรือน/3 deaths figures in this article are for 2567, NOT 2569 — not used"
+        },
+        {
+          "name": "The Nation",
+          "title": "Nan flood death toll rises to three as water levels recede",
+          "url": "https://www.nationthailand.com/news/general/40070082",
+          "published": "2026-08-21",
+          "lang": "en",
+          "verified": true
+        },
+        {
+          "name": "The Nation",
+          "title": "Nan flood extent surpasses 2,793 hectares across three districts",
+          "url": "https://www.nationthailand.com/news/general/40070102",
+          "published": "2026-08-21",
+          "lang": "en",
+          "verified": true
+        },
+        {
+          "name": "The Nation",
+          "title": "Nan floods ease but heavy rain and run-off risks remain",
+          "url": "https://www.nationthailand.com/news/general/40070129",
+          "published": "2026-08-22",
+          "lang": "en",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2026-08-18-nan-pua-santi-suk-mae-charim-tha-wang-pha-phu-phiang",
+      "event_date": "2026-08-18/2026-08-19",
+      "event_start": "2026-08-18",
+      "event_end": "2026-08-19",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "north",
+      "province": "Nan",
+      "provinces": [
+        "Nan"
+      ],
+      "district": "Pua; Santi Suk; Mae Charim; Tha Wang Pha; Phu Phiang",
+      "place": "ทล.1256 สะพานบ้านมอญ; ทล.1371 สะพานห้วยตาด; ฝายนาเลา อ.สันติสุข",
+      "lat": 19.17101,
+      "lon": 100.95019,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอปัว, จังหวัดน่าน, 55120, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "severe",
+      "verified": false,
+      "summary_th": "ฝนตกหนักตั้งแต่คืน 18 ส.ค. ทำให้เกิดน้ำป่าไหลหลากที่ อ.ปัว สันติสุข แม่จริม ฝนเกิน 200 มม. บางพื้นที่ อ.ปัวกระทบ 9 ตำบล 35 หมู่บ้าน ราว 8,000 ครัวเรือน สะพานขาด 2 จุด (ทล.1256 สะพานบ้านมอญ, ทล.1371 สะพานห้วยตาด) ฝายนาเลาพังหนึ่งข้าง อ่างเก็บน้ำน่านมีน้ำ 98.54% ของความจุ ตั้งศูนย์อพยพ 7 แห่งใน อ.ปัว",
+      "numbers": [
+        "More than 200 millimetres",
+        "9 subdistricts and 35 villages",
+        "Approximately 8,000 households and 16,000 people",
+        "5 road routes cut off",
+        "10 evacuation centers",
+        "ทล.101 กม.429+750",
+        "ทล.1256 กม.5+975 สะพานขาด",
+        "ทล.1371 กม.3+700 สะพานขาด",
+        "36.923 ล้าน ลบ.ม. หรือคิดเป็น 98.54% ของความจุ",
+        "ฝนฟ้าคะนองร้อยละ 70 ของพื้นที่"
+      ],
+      "nearby_floodboy": [],
+      "source_urls": [
+        "https://www.thaipbs.or.th/news/content/509599",
+        "https://www.khaosod.co.th/around-thailand/news_10365637",
+        "https://spacebar.th/social/nan-floods-hit-4-districts-reservoir-capacity-nears-98-percent",
+        "https://www.nationthailand.com/news/general/40069985",
+        "https://www.khaosodenglish.com/news/2026/08/19/heavy-rain-floods-nan-damages-weir-and-collapses-bridge-on-key-route/amp/"
+      ],
+      "sources": [
+        {
+          "name": "Thai PBS",
+          "title": "น้ำท่วมปัว จ.น่าน อัปเดตเส้นทางสัญจรไม่ได้-สะพานขาด",
+          "url": "https://www.thaipbs.or.th/news/content/509599",
+          "published": "2026-08-19",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Khaosod",
+          "title": "น้ำท่วมน่าน กระแสน้ำซัด ฝายพัง ถนนเสียหาย ที่ อ.สันติสุข เตือนเตรียมรับมวลน้ำ",
+          "url": "https://www.khaosod.co.th/around-thailand/news_10365637",
+          "published": "2026-08-19",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Spacebar",
+          "title": "เกาะติดน้ำท่วมน่าน 4 อำเภอจมบาดาล อ่างเก็บน้ำจ่อล้น เตือนรับมือฝนซ้ำร้อยละ 70 ของพื้นที่",
+          "url": "https://spacebar.th/social/nan-floods-hit-4-districts-reservoir-capacity-nears-98-percent",
+          "published": "2026-08-19",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "The Nation",
+          "title": "Maximum alert as waters head to Mueang Nan and Wiang Sa August 20–21",
+          "url": "https://www.nationthailand.com/news/general/40069985",
+          "published": "2026-08-19",
+          "lang": "en",
+          "verified": true
+        },
+        {
+          "name": "Khaosod English",
+          "title": "Heavy rain floods Nan, damages weir and collapses bridge on key route",
+          "url": "https://www.khaosodenglish.com/news/2026/08/19/heavy-rain-floods-nan-damages-weir-and-collapses-bridge-on-key-route/amp/",
+          "published": "2026-08-19",
+          "lang": "en",
+          "verified": false,
+          "note": "not fetched (domain returned 403 earlier); search result only"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-chiang-rai-doi-luang-wiang-chiang-rung",
+      "event_date": "2026-08-04",
+      "event_start": "2026-08-04",
+      "event_end": "2026-08-04",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "north",
+      "province": "Chiang Rai",
+      "provinces": [
+        "Chiang Rai"
+      ],
+      "district": "Doi Luang; Wiang Chiang Rung",
+      "place": "ต.โชคชัย บ้านดอนงาม ม.4 บ้านใหม่ดอนงาม ม.11 ห้วยน้ำงาม ห้วยขุนแม่ปง",
+      "lat": 20.14062,
+      "lon": 100.17059,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอดอยหลวง, จังหวัดเชียงราย, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "moderate",
+      "verified": true,
+      "summary_th": "ฝนตกหนักทั้งคืนวัดได้ 113 มิลลิเมตร เกิดน้ำป่าจากลำห้วยน้ำงามและห้วยขุนแม่ปงท่วมบ้านเรือน ต.โชคชัย อ.ดอยหลวง หมู่ 11 ระดับน้ำ 50-80 เซนติเมตร แจ้งเตือนหมู่ 1, 7, 8, 12 ท้ายน้ำ มวลน้ำไหลผ่าน ต.หนองป่าก่อ ลงแม่น้ำกกใน อ.เชียงแสน",
+      "numbers": [
+        "113 มิลลิเมตร",
+        "50-80 เซนติเมตร",
+        "หมู่ที่ 1, 7, 8, 12"
+      ],
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy041",
+          "name": "สะพานคลองขุนแม่บง หมู่ 4 ต.โชคชัย อ.ดอยหลวง จ.เชียงราย",
+          "km": 2.4
+        },
+        {
+          "nickname": "FloodBoy040",
+          "name": "สะพานหน้าโรงเรียนทุ่งกวาง คลองแม่บง ต.โชคชัย อ.ดอยหลวง จ.เชียงราย",
+          "km": 5.4
+        },
+        {
+          "nickname": "FloodBoy042",
+          "name": "สะพานบ้านหมากเอียก ลำน้ำแม่เผื่อ ต.ป่าซาง อ.เวียงเชียงรุ่ง จ.เชียงราย",
+          "km": 12.6
+        }
+      ],
+      "source_urls": [
+        "https://www.thansettakij.com/general-news/665587",
+        "https://www.chiangraitimes.com/news/chiang-rai/flash-floods-strike-chiang-rai/"
+      ],
+      "sources": [
+        {
+          "name": "Thansettakij",
+          "title": "อัปเดตน้ำท่วมเชียงรายล่าสุด 4 ส.ค.69 เช็กพื้นที่เสี่ยงพร้อมรับมวลน้ำ",
+          "url": "https://www.thansettakij.com/general-news/665587",
+          "published": "2026-08-04",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Chiang Rai Times",
+          "title": "Flash Floods Strike Chiang Rai: Mountain Runoff Swamps Local Homes And Roads",
+          "url": "https://www.chiangraitimes.com/news/chiang-rai/flash-floods-strike-chiang-rai/",
+          "published": "2026-08-05",
+          "lang": "en",
+          "verified": true,
+          "note": "CRT says 'early Tuesday morning (August 5)'; Thansettakij dates event 4 ส.ค.69 — date discrepancy"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-01-chiang-rai-thoeng",
+      "event_date": "2026-08-01/2026-08-18",
+      "event_start": "2026-08-01",
+      "event_end": "2026-08-18",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "north",
+      "province": "Chiang Rai",
+      "provinces": [
+        "Chiang Rai"
+      ],
+      "district": "Thoeng",
+      "place": null,
+      "lat": 19.69183,
+      "lon": 100.17263,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอเทิง, จังหวัดเชียงราย, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "minor",
+      "verified": true,
+      "summary_th": "พายุฝนลมแรงนานกว่า 30 นาทีทำให้เกิดน้ำป่าจากภูเขาไหลท่วม อ.เทิง จ.เชียงราย น้ำขึ้นถึงถนนสายหลักเป็นครั้งแรก แม้บางครัวเรือนเจอน้ำท่วมเป็นปีที่สองติดต่อกัน น้ำลดในเช้าวันถัดมา กรมอุตุฯ เตือนฝนหนักถึง 21 ส.ค.",
+      "numbers": [
+        "over 30 minutes",
+        "through August 21"
+      ],
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy029",
+          "name": "บ้านเอียน ต.หงาว อ.เทิง จ.เชียงราย",
+          "km": 11.9
+        },
+        {
+          "nickname": "FloodBoy024",
+          "name": "บ้านปางค่า หมู่ 8 ต.ตับเต่า อ.เทิง จ.เชียงราย",
+          "km": 20.7
+        },
+        {
+          "nickname": "FloodBoy030",
+          "name": "บ้านสบเปา ต.แม่เปา อ.พญาเม็งราย จ.เชียงราย",
+          "km": 23.2
+        }
+      ],
+      "source_urls": [
+        "https://www.chiangraitimes.com/weather/chiang-rai-floods/"
+      ],
+      "sources": [
+        {
+          "name": "Chiang Rai Times",
+          "title": "Chiang Rai Floods as Heavy Rains Hit Northern Thailand",
+          "url": "https://www.chiangraitimes.com/weather/chiang-rai-floods/",
+          "published": "2026-08-18",
+          "lang": "en",
+          "verified": true,
+          "note": "exact event date not stated; place names not given"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-31-chiang-rai-mueang-chiang-rai",
+      "event_date": "2026-07-31/2026-08-01",
+      "event_start": "2026-07-31",
+      "event_end": "2026-08-01",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "north",
+      "province": "Chiang Rai",
+      "provinces": [
+        "Chiang Rai"
+      ],
+      "district": "Mueang Chiang Rai",
+      "place": "ต.ป่าอ้อดอนชัย บ้านร่องขุ่น ม.1 บ้านสันสลี ม.5 น้ำแม่ลาว/น้ำแม่กรณ์",
+      "lat": 19.87748,
+      "lon": 99.71917,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอเมืองเชียงราย, จังหวัดเชียงราย, ประเทศไทย",
+      "type": "river-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "moderate",
+      "verified": false,
+      "summary_th": "ฝนตกหนักทำให้แม่น้ำลาวและแม่น้ำกรณ์ล้นตลิ่งท่วม ต.ป่าอ้อดอนชัย อ.เมืองเชียงราย กระทบชาวบ้านกว่า 50 ครัวเรือน (บ้านร่องขุ่น 10 ครัวเรือน บ้านสันสลี 40 ครัวเรือน) ระดับน้ำที่ขัวร่องขุ่นหล่ายลาวสูง 4.69 เมตร อัตราไหล 209 ลบ.ม./วินาที",
+      "numbers": [
+        "กว่า 50 ครัวเรือน",
+        "4.69 เมตร",
+        "209 ลูกบาศก์เมตรต่อวินาที",
+        "Ban Rong Khun (Moo 1): 10 flooded households",
+        "Ban San Sali (Moo 5): 40 flooded households"
+      ],
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy035",
+          "name": "เทศบาลตำบลบ้านดู่ ต.บ้านดู่ อ.เมือง จ.เชียงราย",
+          "km": 16.4
+        },
+        {
+          "nickname": "FloodBoy036",
+          "name": "บ้านนางแลใน ลำน้ำนางแล ต.นางแล อ.เมือง จ.เชียงราย",
+          "km": 21.5
+        },
+        {
+          "nickname": "FloodBoy011",
+          "name": "บ้านห้วยพลู ต.ท่าสุด อ.เมืองเชียงราย จ.เชียงราย",
+          "km": 24.4
+        }
+      ],
+      "source_urls": [
+        "https://www.chiangraitimes.com/th/news/45928/",
+        "https://www.khaosodenglish.com/featured/2026/07/31/heavy-rain-floods-homes-as-chiang-rai-rivers-surge-higher/"
+      ],
+      "sources": [
+        {
+          "name": "Chiang Rai Times (Thai)",
+          "title": "วิกฤตน้ำท่วมเชียงราย: แม่น้ำลาวและแม่น้ำกรณ์ทะลักตลิ่ง กระทบชาวบ้านกว่า 50 ครัวเรือน",
+          "url": "https://www.chiangraitimes.com/th/news/45928/",
+          "published": "2026-08-01",
+          "lang": "th",
+          "verified": true
+        },
+        {
+          "name": "Khaosod English",
+          "title": "Heavy rain floods homes as Chiang Rai rivers surge higher",
+          "url": "https://www.khaosodenglish.com/featured/2026/07/31/heavy-rain-floods-homes-as-chiang-rai-rivers-surge-higher/",
+          "published": "2026-07-31",
+          "lang": "en",
+          "verified": false,
+          "note": "fetch returned HTTP 403; title/URL from search result only"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02-chiang-rai-mae-sai-mueang-chiang-rai",
+      "event_date": "2026-07-02",
+      "event_start": "2026-07-02",
+      "event_end": "2026-07-02",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "north",
+      "province": "Chiang Rai",
+      "provinces": [
+        "Chiang Rai"
+      ],
+      "district": "Mae Sai; Mueang Chiang Rai",
+      "place": "ท่าขี้เหล็ก/ชุมชนเกาะทราย; ถนนพหลโยธิน ดอยลีกี",
+      "lat": 20.43977,
+      "lon": 99.88297,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอแม่สาย, เวียงพางคำ, จังหวัดเชียงราย, ประเทศไทย",
+      "type": "flash-flood",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "moderate",
+      "verified": true,
+      "summary_th": "ฝนมรสุมตกหนักทำให้พนังกั้นน้ำแม่น้ำสายที่ อ.แม่สาย พังเป็นช่องกว้าง 10 เมตร ใกล้ท่าขี้เหล็ก คุกคามชุมชนเกาะทราย ขณะเดียวกันน้ำป่าจากดอยลีกีไหลท่วมถนนพหลโยธินในเขต อ.เมืองเชียงราย น้ำเริ่มลดราว 21:00 น.",
+      "numbers": [
+        "a 10-meter gap directly along the riverbank",
+        "By 21:00, floodwaters began receding"
+      ],
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy014",
+          "name": "บ้านหนองบัวหัวฝาย ต.จันจว้า อ.แม่จัน จ.เชียงราย",
+          "km": 18.1
+        },
+        {
+          "nickname": "FloodBoy039",
+          "name": "ศรีดอนมูล ลำน้ำแม่คำ 3 ต.ศรีดอนมูล อ.เชียงแสน จ.เชียงราย",
+          "km": 18.7
+        },
+        {
+          "nickname": "FloodBoy038",
+          "name": "สะพานบ้านสันธาตุ ลำน้ำแม่คำ 2 ต.แม่คำ อ.แม่จัน จ.เชียงราย",
+          "km": 19.5
+        }
+      ],
+      "source_urls": [
+        "https://www.chiangraitimes.com/news/chiang-rai/mae-sai-flash-flood/"
+      ],
+      "sources": [
+        {
+          "name": "Chiang Rai Times",
+          "title": "Mae Sai Embankment Collapses Causing Flash Flood To Hit Phaholyothin Road",
+          "url": "https://www.chiangraitimes.com/news/chiang-rai/mae-sai-flash-flood/",
+          "published": "2026-08-03",
+          "lang": "en",
+          "verified": true,
+          "note": "published date as fetched is 2026-08-03 while event date given as 2026-07-02"
+        }
+      ]
+    },
+    {
+      "id": "2026-05-19-chiang-rai-mae-sai",
+      "event_date": "2026-05-19",
+      "event_start": "2026-05-19",
+      "event_end": "2026-05-19",
+      "year": 2026,
+      "historical": false,
+      "scope": "thailand",
+      "region": "north",
+      "province": "Chiang Rai",
+      "provinces": [
+        "Chiang Rai"
+      ],
+      "district": "Mae Sai",
+      "place": "ชุมชนหลัมคน (ซอยต้นโพธิ์) แม่น้ำสาย",
+      "lat": 20.43977,
+      "lon": 99.88297,
+      "latlon_source": "nominatim (approx, district centroid): อำเภอแม่สาย, เวียงพางคำ, จังหวัดเชียงราย, ประเทศไทย",
+      "type": "other",
+      "kind": "incident",
+      "phase": "during",
+      "severity": "warning",
+      "verified": true,
+      "summary_th": "สทนช.และนักวิชาการประชุมหาทางออกแก้น้ำท่วมแม่สาย ห่วงพนังกั้นน้ำฝั่งไทยสูงเพียง 3 เมตร ขณะที่ฝั่งเมียนมาสูงกว่า 6 เมตร และอาคารรุกล้ำลำน้ำ หากน้ำเกิน 300 ลบ.ม./วินาที ฝั่งไทยจะท่วมก่อน แผนรื้อสิ่งกีดขวางใช้งบ 39 ล้านบาท และสร้างแนวกันน้ำคอนกรีต 3.6 กม. 14 โครงการ",
+      "numbers": [
+        "3 meters (Thai embankment)",
+        "exceeds 6 meters (Myanmar barrier)",
+        "2-meter big bag",
+        "300 cubic meters/second",
+        "39 million baht",
+        "3.6 km",
+        "14 projects"
+      ],
+      "nearby_floodboy": [
+        {
+          "nickname": "FloodBoy014",
+          "name": "บ้านหนองบัวหัวฝาย ต.จันจว้า อ.แม่จัน จ.เชียงราย",
+          "km": 18.1
+        },
+        {
+          "nickname": "FloodBoy039",
+          "name": "ศรีดอนมูล ลำน้ำแม่คำ 3 ต.ศรีดอนมูล อ.เชียงแสน จ.เชียงราย",
+          "km": 18.7
+        },
+        {
+          "nickname": "FloodBoy038",
+          "name": "สะพานบ้านสันธาตุ ลำน้ำแม่คำ 2 ต.แม่คำ อ.แม่จัน จ.เชียงราย",
+          "km": 19.5
+        }
+      ],
+      "source_urls": [
+        "https://www.thaipbs.or.th/news/content/506082"
+      ],
+      "sources": [
+        {
+          "name": "Thai PBS",
+          "title": "สทนช.หาทางออก \"แก้น้ำท่วมแม่สาย\"นักวิชาการห่วงพนัง-อาคารรุกล้ำเสี่ยงท่วมหนัก",
+          "url": "https://www.thaipbs.or.th/news/content/506082",
+          "published": "2026-05-19",
+          "lang": "th",
+          "verified": true,
+          "note": "page shows 19 พ.ค. 69; preparedness/context item, not a flood occurrence"
+        }
+      ]
+    }
+  ]
+}

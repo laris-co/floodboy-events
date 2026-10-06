@@ -9,9 +9,20 @@
 [![Open the add-on in my Home Assistant](https://my.home-assistant.io/badges/supervisor_addon.svg)](https://my.home-assistant.io/redirect/supervisor_addon/?addon=09134991_floodboy_events&repository_url=https%3A%2F%2Fgithub.com%2Flaris-co%2Ffloodboy-events)
 <!-- /ha-buttons -->
 
-A new [PocketBase](https://pocketbase.io) backend per project, in one click: **Use this
-template**, then `docker compose up --build`. Logins are provisioned on first start, and the same
-image installs as a Home Assistant add-on with a sidebar panel that signs you in, prebuilt on GHCR.
+Open flood data for Thailand, Chiang Mai first, served by [PocketBase](https://pocketbase.io).
+Two public read-only collections:
+
+- **`news`**: the God's Eyes news layer. Warnings, forecasts and incidents with `time_utc`
+  (when it happened) and `published_utc` (when it went public), so lead time is measurable.
+  `storm_id = cm-2026-10-05` is the 5 Oct 2026 Chiang Mai storm.
+- **`events`**: one row per flood event (2026 season plus historical Ping River P.1 peaks). Every
+  row cites the source URLs it was read from, and figures are quoted exactly as the source gives them.
+
+Anyone may read: `GET /api/collections/news/records`, `GET /api/collections/events/records`.
+Only superusers write; rows come from `data/*.json` through `pocketbase floodboy-import`.
+The data is collected by floodboy-oracle (AI) in
+[laris-co/floodboy-oracle](https://github.com/laris-co/floodboy-oracle) (`lab/flood-news/collect.py`, issue #10).
+Deployed to white by `.github/workflows/deploy-white.yml` (see `scripts/deploy-white.sh`).
 
 ## Quick start
 
